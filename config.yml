@@ -1,0 +1,59 @@
+baseURL: ""
+languageCode: en-us
+title: Test Engineering Notes
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  homeInfoParams:
+    Title: "Test Engineering Notes"
+    Content: "By Oleksandr Romanov"
+  socialIcons:
+    - name: github
+      url: "https://github.com/alexromanov"
+    - name: twitter
+      url: "https://twitter.com/al8xr"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/oleksandr-romanov/"
+
+  cover:
+    linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowToc: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: talks
+      name: Talks
+      url: /talks/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
