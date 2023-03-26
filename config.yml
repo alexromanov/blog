@@ -1,7 +1,8 @@
-baseURL: "https://mellow-choux-af84ce.netlify.app"
+baseURL: "http://testengineeringnotes.com"
 languageCode: en-us
 title: Test Engineering Notes
 theme: PaperMod
+env: production
 
 params:
   defaultTheme: auto
