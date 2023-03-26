@@ -5,6 +5,9 @@ theme: PaperMod
 
 params:
   defaultTheme: auto
+  homeInfoParams:
+    Title: "Test Engineering Notes"
+    Content: "By Oleksandr Romanov"
   socialIcons:
     - name: github
       url: "https://github.com/alexromanov"
