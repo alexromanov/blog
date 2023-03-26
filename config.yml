@@ -1,14 +1,10 @@
-baseURL: "http://testengineeringnotes.com/"
+baseURL: "https://mellow-choux-af84ce.netlify.app"
 languageCode: en-us
 title: Test Engineering Notes
 theme: PaperMod
-env: production
 
 params:
   defaultTheme: auto
-  homeInfoParams:
-    Title: "Test Engineering Notes"
-    Content: "By Oleksandr Romanov"
   socialIcons:
     - name: github
       url: "https://github.com/alexromanov"
