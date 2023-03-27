@@ -2,8 +2,17 @@ baseURL: "https://testengineeringnotes.com/"
 languageCode: en-us
 title: Test Engineering Notes
 theme: PaperMod
+env: production
 
+googleAnalytics: G-EV1R3RYC5R
 params:
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+  comments: true
   defaultTheme: auto
   homeInfoParams:
     Title: "Test Engineering Notes"
@@ -15,6 +24,8 @@ params:
       url: "https://twitter.com/al8xr"
     - name: linkedin
       url: "https://www.linkedin.com/in/oleksandr-romanov/"
+    - name: telegram
+      url: "https://t.me/testengineering"
 
   cover:
     linkFullImages: true
