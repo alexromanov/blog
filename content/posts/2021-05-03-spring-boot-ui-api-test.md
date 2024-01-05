@@ -172,5 +172,5 @@ Code examples are accessible in the [boot-testing-examples][code] repository.
 [WebDriver Manager]: https://github.com/bonigarcia/webdrivermanager
 [JsonPath]: https://github.com/json-path/JsonPath
 [code]: https://github.com/alexromanov/boot-testing-examples
-[Pyramid]: https://alexromanov.github.io/2018/09/10/microservices-automation-approach/
+[Pyramid]: https://testengineeringnotes.com/posts/2018-09-10-microservices-automation-approach/
 [Rest Assured]: https://rest-assured.io/

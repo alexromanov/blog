@@ -15,7 +15,7 @@ cover:
 Photo by Gülfer ERGİN on Unsplash]("https://unsplash.com/@gulfergin_01?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
-In my post about the [2021 results](https://alexromanov.github.io/2021/12/31/2021-review/), I mentioned that I read 40 books during the year. Today I want to share some tips that help me read books.  
+In my post about the [2021 results](https://testengineeringnotes.com/posts/2021-12-31-2021-review/), I mentioned that I read 40 books during the year. Today I want to share some tips that help me read books.  
 
 The recommendations are not revolutionary ones - but it works for me. You can apply these tips to reading books or learning from other sources like online courses. 
 

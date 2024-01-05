@@ -22,7 +22,7 @@ Learning the basic Git commands is not that hard. It is a bit more difficult to 
 
 But few engineers look deeper - **how does Git work "under the hood"**? Of course, you don't have to know this to use Git. But I was still interested to understand. Plus, if you will be asked about Git internals at the interview - you will already know it! (But why ask such a question???).  
 
-Welcome to the world of **graphs** and **hash functions**. You can learn about another application of hash functions - Merkle trees - in my **[previous post](https://alexromanov.github.io/2022/06/19/bchain-test-7-merkle-tree/)**.  
+Welcome to the world of **graphs** and **hash functions**. You can learn about another application of hash functions - Merkle trees - in my **[previous post](https://testengineeringnotes.com/posts/2022-06-19-bchain-test-7-merkle-tree/)**.  
 
 ## A bit of Git theory
 
@@ -70,7 +70,7 @@ Create a new `README.md` file with any content and add it to the first git add. 
 
 We can see that Git created some new folders and files: **3a** folder with a strange file inside.  
 
-It results from the **[SHA-1 hash function](https://en.wikipedia.org/wiki/SHA-1)** running on our README.md file. (You can read about the hash functions in **[one](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)** of my previous blog posts)
+It results from the **[SHA-1 hash function](https://en.wikipedia.org/wiki/SHA-1)** running on our README.md file. (You can read about the hash functions in **[one](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)** of my previous blog posts)
 
 Git has a separate team to help us with research: git cat-file.
 

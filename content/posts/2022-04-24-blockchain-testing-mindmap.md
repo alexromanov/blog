@@ -15,20 +15,20 @@ cover:
 Photo by delfi de la Rua on Unsplash](https://unsplash.com/@delfidelarua7?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
 
-Last year I talked a bit about **[challenges in testing](https://alexromanov.github.io/2021/08/02/blockchain-testing-challenges/)** blockchain systems and **[knowledge](https://alexromanov.github.io/2021/12/01/testing-blockchain/)** you might need to understand it.  
+Last year I talked a bit about **[challenges in testing](https://testengineeringnotes.com/posts/2021-08-02-blockchain-testing-challenges/)** blockchain systems and **[knowledge](https://testengineeringnotes.com/posts/2021-12-01-testing-blockchain/)** you might need to understand it.  
 
 But the more I learn about this fascinating technology (and technologies around it) - the more I understand my knowledge gaps. As my manager once said, blockchain is like a **"black hole"** - the more you learn, the more new topics you discover.  
 
 So I decided to share my knowledge with other test engineers and start a series of blog posts: **"Blockchain for Test Engineers."**
 
 Series:
-- **[Hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)**
-- **[Encryption](https://alexromanov.github.io/2022/05/08/bchain-testing-2-encryption/)**
-- **[Digital Signature](https://alexromanov.github.io/2022/05/15/bchain-testing-3-signatures/)**
-- **[Distributed Systems](https://alexromanov.github.io/2022/05/22/bchain-test-4-distributed-systems/)**
-- **[P2P networks and Gossip protocol](https://alexromanov.github.io/2022/05/29/bchain-test-5-p2p-gossip-protocols/)**
-- **[What is blockchain?](https://alexromanov.github.io/2022/06/05/bchain-test-what-is-blockchain/)**
-- **[Merkle Trees](https://alexromanov.github.io/2022/06/19/bchain-test-7-merkle-tree/)**
+- **[Hashing](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)**
+- **[Encryption](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-2-encryption/)**
+- **[Digital Signature](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-3-signatures/)**
+- **[Distributed Systems](https://testengineeringnotes.com/posts/2022-05-22-bchain-test-4-distributed-systems/)**
+- **[P2P networks and Gossip protocol](https://testengineeringnotes.com/posts/2022-05-29-bchain-test-5-p2p-gossip-protocols/)**
+- **[What is blockchain?](https://testengineeringnotes.com/posts/2022-06-05-bchain-test-what-is-blockchain/)**
+- **[Merkle Trees](https://testengineeringnotes.com/posts/2022-06-19-bchain-test-7-merkle-tree/)**
 
 ### The Roadmap
 
@@ -58,8 +58,6 @@ We will talk about **Bitcoin**, **Ethereum**, and **Cardano** as our examples of
 At the next step we will learn about different aspects of the blockchains' **performance** and **security** and why it is more crucial than ever. We will see that basic types of smart contract vulnerabilities and how we can prevent it (using audit or automated scanners).
 
 Close to the end of the journey, we will review applications of blockchain systems in **Decentralised Finance** and other fields of human life. 
-
-You can find the online version of the mindmap [here](https://mm.tt/2265305609?t=Mnql93oNbM).
 
 ### Few words on why learning blockchain
 

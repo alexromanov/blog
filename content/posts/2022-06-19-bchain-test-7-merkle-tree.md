@@ -14,12 +14,12 @@ cover:
 
 Photo by [Camille Brodard on Unsplash](https://unsplash.com/photos/peOp2E3Zukk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-This blog post is a part of [**"Blockchain for Test Engineers"**](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/) series.  
+This blog post is a part of [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 
-In previous articles, we have already discussed **[hash functions](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)** and their usage. Today I propose to learn about an exciting data structure built using hashes - **Merkle Tree**.
+In previous articles, we have already discussed **[hash functions](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)** and their usage. Today I propose to learn about an exciting data structure built using hashes - **Merkle Tree**.
 
 ## Blockchain and transactions
-A **[blockchain](https://alexromanov.github.io/2022/06/05/bchain-test-what-is-blockchain/)** is a chain of data blocks connected cryptographically (each subsequent block points to the previous one).
+A **[blockchain](https://testengineeringnotes.com/posts/2022-06-05-bchain-test-what-is-blockchain/)** is a chain of data blocks connected cryptographically (each subsequent block points to the previous one).
 
 ![Project Structure](/img/20220619/blockchain.png)
 

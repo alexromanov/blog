@@ -14,9 +14,9 @@ cover:
 
 Photo by [Mauro Sbicego on Unsplash](https://unsplash.com/photos/4hfpVsi-gSg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-This is the second blog post in the [**"Blockchain for Test Engineers"**](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/) series.  
+This is the second blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 
-In the previous post we talked about **[Hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)**. Today we will dive into a fascinating world of ciphers and encryption in this post. 
+In the previous post we talked about **[Hashing](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)**. Today we will dive into a fascinating world of ciphers and encryption in this post. 
 
 ### The message to a friend
 

@@ -106,4 +106,4 @@ Full code samples can be found in [repository][source repo].
 [cmd]: https://docs.qameta.io/allure/#_commandline
 [sbt]: https://www.scala-sbt.org/
 [Scala]: https://www.scala-lang.org/
-[ui-tests]: https://alexromanov.github.io/2021/05/11/selenium-scala-basic/
+[ui-tests]: https://testengineeringnotes.com/posts/2021-05-12-selenium-scala-basic/

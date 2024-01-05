@@ -14,7 +14,7 @@ cover:
 
 Photo by [Federico Beccari on Unsplash](https://unsplash.com/photos/ahi73ZN5P0Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-This is the fifth blog post in the [**"Blockchain for Test Engineers"**](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/) series.  
+This is the fifth blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 
 **Blockchain** is not a usual distributed system. It is a peer-to-peer network of nodes that communicates with each other.  
 

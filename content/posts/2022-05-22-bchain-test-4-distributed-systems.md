@@ -14,9 +14,9 @@ cover:
 
 Photo by [Shubham Dhage on Unsplash](https://unsplash.com/photos/gC_aoAjQl2Q?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-This is the fourth blog post in the [**"Blockchain for Test Engineers"**](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/) series.  
+This is the fourth blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 
-In the previous posts, we talked about the tiny little pieces of blockchain knowledge: [hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/), [encryption](https://alexromanov.github.io/2022/05/08/bchain-testing-2-encryption/) and [digital signatures](https://alexromanov.github.io/2022/05/15/bchain-testing-3-signatures/). This time we will examine bits of the vast topic of **distributed systems**.
+In the previous posts, we talked about the tiny little pieces of blockchain knowledge: [hashing](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/), [encryption](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-2-encryption/) and [digital signatures](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-3-signatures/). This time we will examine bits of the vast topic of **distributed systems**.
 
 ## Why would I need to know about distributed systems - I'm just a tester?
 If you are testing an application that is little more than a couple of simple scripts, there is a non-zero chance that you are developing (or using) distributed systems in one way or another.
@@ -119,7 +119,7 @@ But if you are a part of a core development team or building a distributed syste
 If you are interested in distributed systems - I want to share a few resources on where to start.
 
 1. Simple explanations can be found in the [introductory course created by Chris Colohan](https://youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A). It is a good starting point for newcomers. 
-2. If you want to read a single book - it is ["Designing Data-Intensive Applications"]((https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)) by Martin Kleppmann. I even made a review post about this book [last year.](https://alexromanov.github.io/2021/07/26/ddia-for-testers/). The book can be hard to read, but it is full of helpful information.
+2. If you want to read a single book - it is ["Designing Data-Intensive Applications"]((https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)) by Martin Kleppmann. I even made a review post about this book [last year.](https://testengineeringnotes.com/posts/2021-07-26-ddia-for-testers/). The book can be hard to read, but it is full of helpful information.
 3. If you prefer to watch videos - here is [a course on distributed systems at the University of Cambridge taught by Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
     What can you learn from the course?

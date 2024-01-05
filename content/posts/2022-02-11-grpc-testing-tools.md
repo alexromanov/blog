@@ -14,7 +14,7 @@ cover:
 
 Photo by [Cesar Carlevarino Aragon on Unsplash](https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-In [one of my previous posts](https://alexromanov.github.io/2021/06/12/scala-grpc-api-tests/), I have shared how to implement automation tests for testing gRPC services. Automation is, of course, a fantastic thing.  
+In [one of my previous posts](https://testengineeringnotes.com/posts/2021-06-12-scala-grpc-api-tests/), I have shared how to implement automation tests for testing gRPC services. Automation is, of course, a fantastic thing.  
 
 Still, there are a lot of cases where it is more suitable to verify new functionality quickly and manually rather than testing writing the code. 
 

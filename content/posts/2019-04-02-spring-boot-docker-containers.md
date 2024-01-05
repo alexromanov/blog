@@ -124,7 +124,7 @@ In order to launch and test single microservice in isolation we need a simple an
 
 [Testcontainers-spring-boot][testcontainers] library makes such testing a lot easier. As a result, it is possible to concentrate more on **what to test** rather than on **how to configure application under test**.  
 
-[microservicestesting]: https://alexromanov.github.io/2018/09/10/microservices-automation-approach/
+[microservicestesting]: https://testengineeringnotes.com/posts/2018-09-10-microservices-automation-approach/
 [testcontainers]: https://github.com/Playtika/testcontainers-spring-boot
 [docker]: https://www.docker.com/
 [kubernetes]: https://kubernetes.io/

@@ -14,9 +14,9 @@ cover:
 
 Photo by [Robynne Hu on Unsplash](https://unsplash.com/photos/HOrhCnQsxnQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-This is the sixth blog post in the [**"Blockchain for Test Engineers"**](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/) series.  
+This is the sixth blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 
-We have explored concepts from **[hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)**, **[encryption](https://alexromanov.github.io/2022/05/08/bchain-testing-2-encryption/)**, and **[distributed systems](https://alexromanov.github.io/2022/05/22/bchain-test-4-distributed-systems/)** in the previous posts. Now it's time to apply this knowledge and understand what blockchain is.
+We have explored concepts from **[hashing](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)**, **[encryption](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-2-encryption/)**, and **[distributed systems](https://testengineeringnotes.com/posts/2022-05-22-bchain-test-4-distributed-systems/)** in the previous posts. Now it's time to apply this knowledge and understand what blockchain is.
 
 When I first started to google on this topic, I found many articles, videos, and even courses dedicated to the blockchain. But all these resources eventually fell into two categories: **too superficial** or **too deep.** There was nothing in between.
 
@@ -119,7 +119,7 @@ If everything is in order with the block - it starts to spread over the network 
 
 ![Project Structure](/img/20220605/propagate_block.png)
 
-Sooner or later, nodes will distribute the new block over the network using some protocol (for example, it can be **[Gossip protocol](https://alexromanov.github.io/2022/05/29/bchain-test-5-p2p-gossip-protocols/)**).
+Sooner or later, nodes will distribute the new block over the network using some protocol (for example, it can be **[Gossip protocol](https://testengineeringnotes.com/posts/2022-05-29-bchain-test-5-p2p-gossip-protocols/)**).
 
 In Bitcoin, a new block appears on the network every 10 minutes (the internal mining algorithm checks the complexity of the mining for all peers and adjusts it every 2048 blocks). But this does not mean at all that your transaction will be in the block in 10 minutes. But more on that next time.
 

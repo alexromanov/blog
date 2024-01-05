@@ -112,7 +112,7 @@ Resources:
 ## Conclusions
 Microservices architecture is not a "silver" bullet in software development. The benefits also come with drawbacks.  
 
-For tester's point of view - **[testing microservices is like a testing system of systems](https://alexromanov.github.io/2018/09/10/microservices-automation-approach/)**: you start with single service verification in isolation, then move to integrate it with dependencies and other services, then you move to end-to-end API and UI tests as for any application.  
+For tester's point of view - **[testing microservices is like a testing system of systems](https://testengineeringnotes.com/posts/2018-09-10-microservices-automation-approach/)**: you start with single service verification in isolation, then move to integrate it with dependencies and other services, then you move to end-to-end API and UI tests as for any application.  
 
 The biggest challenge here is that the previously described testing process needs to be applied to many different services. It is not fast and scalable to do it manually - so high investment in automation is a prerequisite to any successful microservices testing effort. 
 

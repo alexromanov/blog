@@ -184,7 +184,7 @@ As you can see, it is easy to integrate and use RestAssured library with Serenit
 
 All code examples available on Github: [serenity-rest][serenity-rest]
 
-[previous]: https://alexromanov.github.io/2017/02/06/serenity-browser-restart/
+[previous]: https://testengineeringnotes.com/posts/2017-02-06-serenity-browser-restart/
 [serenity-base]: http://www.thucydides.info/#/
 [rest-assured]: http://rest-assured.io/
 [rest-github-reference]: https://github.com/rest-assured/rest-assured/wiki/Usage

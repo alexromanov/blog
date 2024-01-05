@@ -14,9 +14,9 @@ cover:
 
 Photo by [David Nitschke on Unsplash](https://unsplash.com/photos/pegxjW_1YOU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-This is the third blog post in the [**"Blockchain for Test Engineers"**](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/) series.  
+This is the third blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 
-In the previous posts we talked about **[hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)** and **[encryption](https://alexromanov.github.io/2022/05/08/bchain-testing-2-encryption/)**. Today I will show you what is digital signature and how it is used in the blockchain world.
+In the previous posts we talked about **[hashing](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)** and **[encryption](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-2-encryption/)**. Today I will show you what is digital signature and how it is used in the blockchain world.
 
 ### The purpose of digital signatures
 Last week we learned some methods for hiding the transmitted information from third parties. It is - encryption (symmetric or asymmetric).
