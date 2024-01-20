@@ -12,6 +12,8 @@ cover:
   alt: "whywetest"
 ---
 
+Picture by [ChatGPT](https://chat.openai.com/)
+
 # Why are we testing?
 
 The main goal of testing - is to **provide** the team (management) with **information on the current state of the product** (build) and **on** possible **risks for release**. It is up to the management to decide what to do with this information and how to act.
