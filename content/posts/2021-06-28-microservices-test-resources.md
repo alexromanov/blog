@@ -32,7 +32,7 @@ I will split resources into the following sections - from the theory to practice
 
 ## Learn the basics  
 
-![Project Structure]({{ site.baseurl }}/img/20210628/micro.png)
+![Project Structure](/img/20210628/micro.png)
 
 The first thing is to understand microservices architecture and how it differs from more traditional monolith systems.
 
@@ -61,7 +61,7 @@ Do not hesitate to ask which testing tools, practices, and guidelines they alrea
 
 ## Build test strategy  
 
-![Project Structure]({{ site.baseurl }}/img/20210628/pyramid.png)
+![Project Structure](/img/20210628/pyramid.png)
 
 Classic approach with unit, integration, and end-to-end testing can't be applied to microservices "as is." That's why approaches to testing need to be reworked and adapted.
 
@@ -86,7 +86,7 @@ Resources:
 
 ## Investigate contract testing  
 
-![Project Structure]({{ site.baseurl }}/img/20210628/contracts.png)
+![Project Structure](/img/20210628/contracts.png)
 
 When the number of microservices is increasing to hundreds or thousands, the problems of integration arises:
 - if I deploy this API change - which microservices will I break?

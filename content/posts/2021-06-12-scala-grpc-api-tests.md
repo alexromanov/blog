@@ -20,7 +20,7 @@ Photo by [Nick Fewings on Unsplash](https://unsplash.com/@jannerboy62?utm_source
 
 The main idea of the framework is to provide for clients, written in various languages, a possibility to execute remote calls to the server as if it is a local call.  
 
-![Project Structure]({{ site.baseurl }}/img/20210612/grpc.png) 
+![Project Structure](/img/20210612/grpc.png) 
     Picture from <a href="https://grpc.io/docs/what-is-grpc/introduction/">grpc.io docs</a>
 
 The core concept of gRPC is that all communication between server and client is based on [Protocol Buffers][protocol-buffers] defined in proto files. The server will implement and support this interface, and the client will generate and use stub code. 
