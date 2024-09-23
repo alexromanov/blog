@@ -46,22 +46,18 @@ menu:
       name: Talks
       url: /talks/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 40
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 50
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
     - identifier: search
       name: Search
       url: /search/
-      weight: 60
+      weight: 50
 
 outputs:
   home:
