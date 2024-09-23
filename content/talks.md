@@ -6,8 +6,10 @@ summary: "Talks"
 
 # Talks
 
-| Talk | Event | Year | 
+| Talk | Event | Year |
 | -----| ----- | ---- |
+| How to test a blockchain? | Colombo Quality Week, Sri Lanka | 2023 |
+| [Що значить тестувати блокчейн](https://youtu.be/lGjqihPPvRE?si=1vClwn8qRemRkvTS) | QA Party Hard, Ukraine | 2023 |
 | [What does it mean to test a blockchain?](https://youtu.be/LLF45RHA3AM) | SoftServe QM Week, Online | 2022 | 
 | [High Tech-Low Test or Problems of Modern Testing](https://youtu.be/jigPyy6wSfk) | Ministry of Testing Abu Dhabi, Online | 2022 |
 | [Practical Contract Testing with Spring Cloud Contract](https://youtu.be/GqN8OoODMOI) | Ministry of Testing Abu Dhabi, Online | 2020 |
