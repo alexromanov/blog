@@ -128,6 +128,6 @@ As you can see, there are multiple way to solve a Fibonacci sequence problem.
 
 Why do we need to learn many ways to solve one problem? 
 
-As a answer, I will provide a quote by Scoot H. Young from "Ultralearning" book:
+As a answer, I will provide a quote by Scott H. Young from "Ultralearning" book:
 > One thing that separate mediocre developers from great ones isn't the range of problems they can solve but that the latter often know dozens of ways to solve problems and can select the best one for each situation. 
 
