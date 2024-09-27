@@ -12,7 +12,7 @@ cover:
   alt: "fibonacci"
 ---
 
-Photo by <a href="https://unsplash.com/@davidclode?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">David Clode</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-shell-on-a-black-background-MNEGikPGkAM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by [David Clode on Unsplash](https://unsplash.com/@davidclode?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 # What is Fibonacci sequence?
 

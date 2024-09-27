@@ -12,7 +12,7 @@ cover:
   alt: "ialreadyknowit"
 ---
 
-Photo by <a href="https://unsplash.com/@phosphoricc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anna Mould</a> on <a href="https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-Zck1ap7muew?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by [Anna Mould on Unsplash](https://unsplash.com/@phosphoricc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 # I already know about it
 

@@ -12,7 +12,7 @@ cover:
   alt: "integration"
 ---
 
-Photo by <a href="https://unsplash.com/@villxsmil?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luis Villasmil</a> on <a href="https://unsplash.com/photos/orange-band-aid-on-concrete-surface-crack-jPpHpgWNCKs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by [Luis Villasmil on Unsplash](https://unsplash.com/@villxsmil?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 # On integration testing examples  
   
