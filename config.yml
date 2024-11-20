@@ -4,6 +4,16 @@ title: Test Engineering Notes
 theme: PaperMod
 env: production
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+  ua:
+    languageName: "Українська"
+    weight: 2
+
 googleAnalytics: G-EV1R3RYC5R
 params:
   assets:
