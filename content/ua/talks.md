@@ -1,6 +1,6 @@
 ---
-title: "My talks"
-url: "/talks/"
+title: "Мої доповіді"
+url: "/ua/talks/"
 summary: "Talks"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Archives"
+title: "Архів"
 layout: "archives"
-url: "/archives/"
+url: "/ua/archives/"
 summary: "Archives"
 ---

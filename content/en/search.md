@@ -1,7 +1,7 @@
 ---
 title: "Search"
 layout: "search"
-url: "/search"
+url: "/en/search"
 summary: "search"
 placeholder: "search in the posts"
 ---

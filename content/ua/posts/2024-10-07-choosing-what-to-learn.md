@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Як обрати що вчити"
+title:  "On choosing what to learn"
 date:   2024-10-07 00:00:00 +0300
 author: "Oleksandr Romanov"
-description: "Як я обираю що вчити та як я вчуся"
-summary: "Як я обираю що вчити та як я вчуся"
+description: "How I learn or treating learning as a project"
+summary: "How I learn or treating learning as a project"
 tags: [learning]
 categories: [learning]
 cover:

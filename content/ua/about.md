@@ -1,6 +1,6 @@
 ---
-title: "About"
-url: "/about/"
+title: "Про мене"
+url: "/ua/about/"
 summary: "about"
 ---
 

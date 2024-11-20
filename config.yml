@@ -1,21 +1,71 @@
 baseURL: "https://testengineeringnotes.com/"
-languageCode: en-us
 title: Test Engineering Notes
 theme: PaperMod
 env: production
 
-defaultContentLanguage: en
+defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
+
 languages:
   en:
     languageName: "English"
+    contentDir: "content/en"
+    languageCode: "en-us"
     weight: 1
+    menus:
+      main:
+        - identifier: about
+          name: About
+          url: /en/about/
+          weight: 10
+        - identifier: talks
+          name: Talks
+          url: /en/talks/
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /en/tags/
+          weight: 30
+        - identifier: archives
+          name: Archives
+          url: /en/archives/
+          weight: 40
+        - identifier: search
+          name: Search
+          url: /en/search/
+          weight: 50
   ua:
     languageName: "Українська"
+    contentDir: "content/ua"
+    languageCode: "uk-ua"
     weight: 2
+    menus:
+      main:
+        - identifier: about
+          name: Про мене
+          url: /ua/about/
+          weight: 15
+        - identifier: talks
+          name: Доповіді
+          url: /ua/talks/
+          weight: 25
+        - identifier: tags
+          name: Теги
+          url: /ua/tags/
+          weight: 35
+        - identifier: archives
+          name: Архів
+          url: /ua/archives/
+          weight: 45
+        - identifier: search
+          name: Пошук
+          url: /ua/search/
+          weight: 55
 
 googleAnalytics: G-EV1R3RYC5R
 params:
+  cover:
+    linkFullImages: false
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
@@ -45,32 +95,8 @@ params:
   ShowPostNavLinks: true
   ShowToc: true
   ShowCodeCopyButtons: true
-
-menu:
-  main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 10
-    - identifier: talks
-      name: Talks
-      url: /talks/
-      weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 30
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 40
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 50
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
