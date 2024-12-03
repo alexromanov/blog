@@ -15,7 +15,7 @@ lang: ua
 
 Photo by [Markus Spiske on Unsplash](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-In one of the [previous blog posts](https://testengineeringnotes.com/posts/2021-05-17-scala-allure-report/), I showed how to add Allure reporting to the Scala-based automation project.  
+In one of the [previous blog posts](https://testengineeringnotes.com/ua/posts/2021-05-17-scala-allure-report/), I showed how to add Allure reporting to the Scala-based automation project.  
 
 But generating reports only on the local machine is not enough. The main goal of test reports is to notify the team and the management about the issues found by automated tests.  
 
@@ -110,7 +110,7 @@ Here is an example of action configuration:
 
 1. Username and password for connecting to Gmail should be added as SECRETS for repository
 
-2. As email action connects to Gmail for sending emails - make sure that [security policies allow](https://testengineeringnotes.com/posts/2021-05-05-scala-mail-testing/) to do it for external resources
+2. As email action connects to Gmail for sending emails - make sure that [security policies allow](https://testengineeringnotes.com/ua/posts/2021-05-05-scala-mail-testing/) to do it for external resources
 
 3. You can use Allure report URL from the previous action as steps.allure-report.outputs.report-URL
 

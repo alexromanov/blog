@@ -23,7 +23,7 @@ Learning the basic Git commands is not that hard. It is a bit more difficult to 
 
 But few engineers look deeper - **how does Git work "under the hood"**? Of course, you don't have to know this to use Git. But I was still interested to understand. Plus, if you will be asked about Git internals at the interview - you will already know it! (But why ask such a question???).  
 
-Welcome to the world of **graphs** and **hash functions**. You can learn about another application of hash functions - Merkle trees - in my **[previous post](https://testengineeringnotes.com/posts/2022-06-19-bchain-test-7-merkle-tree/)**.  
+Welcome to the world of **graphs** and **hash functions**. You can learn about another application of hash functions - Merkle trees - in my **[previous post](https://testengineeringnotes.com/ua/posts/2022-06-19-bchain-test-7-merkle-tree/)**.  
 
 ## A bit of Git theory
 

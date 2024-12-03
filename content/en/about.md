@@ -19,7 +19,7 @@ For detailed work experience - refer to my [CV](https://docs.google.com/document
 ## What do I do
 
 I love to share my knowledge in many forms:
-- I do [talks on testing](https://testengineeringnotes.com/talks/)
+- I do [talks on testing](https://testengineeringnotes.com/en/talks/)
 - I am a co-host of ["Testing Minutes" podcast](https://youtu.be/jcbc1YOSHT8?si=d7siLc83FfrfGcNS)
 - I am writing [articles](https://www.getxray.app/blog/testability-in-the-software-development-lifecycle)
 - I am collecting useful materials on [blockchain testing](https://github.com/alexromanov/awesome-blockchain-testing)

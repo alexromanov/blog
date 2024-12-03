@@ -40,7 +40,7 @@ In this blog post, I want to show a few basic examples load tests for gRPC servi
 
 ## The service under test
 
-For our example, we will use simple gRPC service implementation from one of the [previous blog post](https://testengineeringnotes.com/posts/2021-06-12-scala-grpc-api-tests/). 
+For our example, we will use simple gRPC service implementation from one of the [previous blog post](https://testengineeringnotes.com/en/posts/2021-06-12-scala-grpc-api-tests/). 
 
 **Sample service API:**
 - **SayHello()** method for unary calls: a client sends a single request to the server and gets a single response back  

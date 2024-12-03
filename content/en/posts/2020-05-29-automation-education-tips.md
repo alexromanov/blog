@@ -124,4 +124,4 @@ Gather information, evaluate the risks, and implement it effectively.
 
 Good luck with your education!
 
-[AEUD]: https://testengineeringnotes.com/posts/2019-10-17-automation-education-upside-down/
+[AEUD]: https://testengineeringnotes.com/en/posts/2019-10-17-automation-education-upside-down/
