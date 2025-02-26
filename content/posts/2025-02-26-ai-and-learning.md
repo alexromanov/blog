@@ -52,7 +52,7 @@ So, I wanted to improve this process and tried a few AI-based services: **[Noteb
 
 Pros:
 - You can send whitepaper, post, or even a video to it and get short notes, questions for self-assessment, and the ability to talk with a chat on this particular topic
-- You add multiple different sources in one single context
+- You can add multiple different sources in one single context
 - Short notes may be useful, especially for videos
 - You can turn a big pile of text into ... a podcast! An AI-generated hosts will talk about the topic of the whitepaper
 
@@ -90,7 +90,7 @@ You did the exercise quickly, but you did not learn much.
 
 ### Diagrams
 
-The same goes for creating diagrams with AI. It works well when you understand the topic and concepts. 
+The same goes for creating diagrams with AI. It works well when you ***already*** understand the topic and concepts. 
 
 > **To get insights from diagrams - break down complex processes into manageable chunks and draw diagrams by yourself, maybe in the form of a mind map.** 
 
@@ -98,19 +98,19 @@ Think about how new concepts connect to existing ones. Try to show your drawing 
 
 ### Note-taking
 
-AI tools like NotebookLM or YouLearn can decrease the time spent reading. But they also steal an "A-HA" moment or learning and understading new pieces of knowledge. 
+AI tools like NotebookLM or YouLearn can decrease the time spent reading. But they also steal an *"A-HA"* moment or learning and understading new pieces of knowledge. 
 
 Two different people will make different notes from the same book or blog post. When you make short notes by yourself, you process information and get pieces that most important for you, for your context.
 
 > **Learn note-taking techniques so you can make them effectively without additional tools.** 
 
-Writing notes will help you to learn the same way as making diagrams.
+Writing your own notes will help you to learn the same way as making diagrams.
 
 ## Validation
 
 When we learn any new topic or skill, we are going through [Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) stages - from novice to advanced beginner and then up to the expert. 
 
-And the biggest problem is that we, as novices, are stuggling to validate the output of AI tool:
+And the biggest problem is that we, as novices, are stuggling to validate the output of AI tools:
 
 - It's hard to validate if the generated code is correct and does not contain any errors
 - It's hard to fully understand if the diagram of the complex process is right or wrong
@@ -119,6 +119,8 @@ And the biggest problem is that we, as novices, are stuggling to validate the ou
 But no worries!
 
 > **Remember - the more you learn, the better you will be at validating outputs**
+
+Experience still matters.
 
 # So, what can we do with AI tools?
 
