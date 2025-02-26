@@ -61,7 +61,7 @@ Those services look very promising at first sight. But what about the cons?
 Cons:
 - Notebook.LM is not available in Ukraine, but YouLearn - is
 - Both services work only with text input. So they can't process graphs and diagrams
-- You need even more free time to consumer blog posts as a podcast
+- You need even more free time to consume blog posts as a podcast :)
 - The quality of AI-generated podcasts is not good - so they can contain errors. It can be even harmful for you if you're new to the topic
 
 # AI-assisted coding
