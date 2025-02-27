@@ -3,8 +3,8 @@ layout: post
 title:  "Paper review: Software Testing Research Challenges: An Industrial Perspective"
 date:   2025-02-27 00:00:00 +0300
 author: "Oleksandr Romanov"
-description: "An oveview of the current state of software testing and open research questions"
-summary: "An oveview of the current state of software testing and open research questions"
+description: "An overview of the current state of software testing and open research questions"
+summary: "An overview of the current state of software testing and open research questions"
 tags: [testing, ai, engineering, review]
 categories: [review]
 cover:
