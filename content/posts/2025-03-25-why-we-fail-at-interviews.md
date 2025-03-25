@@ -63,7 +63,7 @@ However, to pass an interview, you and your interviewer also need to have a **sp
 
 An interviewer uses interview knowledge to find an overlap between the position requirements and the candidate's experience and expertise. An additional challenge is to see this overlap in an hour or so. 
 
-# What we can do about it?
+# What can we do about it?
 
 **Our main goal as a candidate is to get interviewing skills and to show this match for requirements as clearly and fast as possible.** We can get those skills by preparation or trial and failure at multiple interviews. 
 
