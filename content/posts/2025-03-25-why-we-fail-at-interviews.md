@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Why we fail at interviews?"
+title:  "Why do we fail at interviews?"
 date:   2025-03-25 00:00:00 +0300
 author: "Oleksandr Romanov"
-description: "Why we fail at interviews and what we can do about it"
-summary: "Why we fail at interviews and what we can do about it"
+description: "Why do we fail at interviews and what we can do about it"
+summary: "Why do we fail at interviews and what we can do about it"
 tags: [interview]
 categories: [post]
 cover:
