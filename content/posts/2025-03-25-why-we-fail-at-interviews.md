@@ -12,7 +12,7 @@ cover:
   alt: "fail-interview"
 ---
 
-Photo by <a href="https://unsplash.com/@brett_jordan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brett Jordan</a> on <a href="https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 **Disclaimer: Yes, I know every company has a unique interview process, but let's talk about averages.**
 
