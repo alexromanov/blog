@@ -8,7 +8,7 @@ summary: "Why do we fail at interviews and what we can do about it"
 tags: [interview]
 categories: [post]
 cover:
-  image: img/20250325/fail-interview.jpg
+  image: img/20250325/fail-interview.png
   alt: "fail-interview"
 ---
 

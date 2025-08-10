@@ -8,7 +8,7 @@ summary: "How can a regular test engineer affect testability"
 tags: [thoughts, testability]
 categories: [testing]
 cover:
-  image: img/20220814/testability.jpg
+  image: img/20220814/testability.png
   alt: "education"
 ---
 

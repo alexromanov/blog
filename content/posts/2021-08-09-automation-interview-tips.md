@@ -8,7 +8,7 @@ summary: "Few tips that will help you to succeed with automation interviews"
 tags: [automation, thoughts]
 categories: [interview]
 cover:
-  image: img/20210809/hire.jpg
+  image: img/20210809/hire.png
   alt: "education"
 ---
 

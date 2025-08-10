@@ -8,7 +8,7 @@ summary: "Which tool to choose for testing gRPC services?"
 tags: [grpc, tools]
 categories: [testing]
 cover:
-  image: img/20220211/tools.jpg
+  image: img/20220211/tools.png
   alt: "education"
 ---
 

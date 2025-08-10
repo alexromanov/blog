@@ -8,7 +8,7 @@ summary: "What are Merkle Trees - from tester's point view"
 tags: [blockchain, blockchain for testers]
 categories: [testing]
 cover:
-  image: img/20220619/roots.jpg
+  image: img/20220619/roots.png
   alt: "education"
 ---
 

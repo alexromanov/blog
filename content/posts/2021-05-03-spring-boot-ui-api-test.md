@@ -8,7 +8,7 @@ summary: "Few samples of UI and API tests for Spring Boot application"
 tags: [spring boot, java, ui, api]
 categories: [testing]
 cover:
-  image: img/20210503/simple.jpg
+  image: img/20210503/simple.png
   alt: "education"
 ---
 

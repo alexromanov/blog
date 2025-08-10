@@ -8,7 +8,7 @@ summary: "Review of paper about Non-Deterministic Concurrency Bugs"
 tags: [paper, distributed systems]
 categories: [review]
 cover:
-  image: img/20210621/bugs.jpg
+  image: img/20210621/bugs.png
   alt: "education"
 ---
 

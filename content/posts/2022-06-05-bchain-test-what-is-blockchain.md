@@ -8,7 +8,7 @@ summary: "What is blockchain - from tester's point view"
 tags: [blockchain, blockchain for testers]
 categories: [testing]
 cover:
-  image: img/20220605/bch.jpg
+  image: img/20220605/bch.png
   alt: "education"
 ---
 

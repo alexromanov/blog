@@ -8,7 +8,7 @@ summary: "A curated list of good books for test automation engineers"
 tags: [test-automation, books]
 categories: [post]
 cover:
-  image: img/20250807/automation-books.jpg
+  image: img/20250807/automation-books.png
   alt: "automation-books"
 ---
 

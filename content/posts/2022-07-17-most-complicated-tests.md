@@ -8,7 +8,7 @@ summary: "Which tests are the most complicated ones?"
 tags: [thoughts, ui]
 categories: [testing]
 cover:
-  image: img/20220717/challenge.jpg
+  image: img/20220717/challenge.png
   alt: "education"
 ---
 

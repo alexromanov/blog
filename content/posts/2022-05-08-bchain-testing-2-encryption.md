@@ -8,7 +8,7 @@ summary: "Encryption from tester's point of view"
 tags: [blockchain, blockchain for testers, encryption]
 categories: [testing]
 cover:
-  image: img/20220508/encryption.jpg
+  image: img/20220508/encryption.png
   alt: "education"
 ---
 

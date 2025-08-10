@@ -8,7 +8,7 @@ summary: "Multiple approaches to solve popular interview question"
 tags: [python, interview]
 categories: [python]
 cover:
-  image: img/20240924/fibonacci.jpg
+  image: img/20240924/fibonacci.png
   alt: "fibonacci"
 ---
 

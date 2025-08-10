@@ -8,7 +8,7 @@ summary: "Peer-to-peer and gossip protocols"
 tags: [blockchain, blockchain for testers, p2p]
 categories: [testing]
 cover:
-  image: img/20220529/network.jpg
+  image: img/20220529/network.png
   alt: "education"
 ---
 

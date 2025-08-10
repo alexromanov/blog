@@ -8,7 +8,7 @@ summary: "How I learn or treating learning as a project"
 tags: [learning]
 categories: [learning]
 cover:
-  image: img/20241007/choosing-learning.jpg
+  image: img/20241007/choosing-learning.png
   alt: "choosing-learning"
 ---
 

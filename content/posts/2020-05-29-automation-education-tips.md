@@ -8,7 +8,7 @@ description: "Things to consider before starting an internal automation course f
 tags: [teaching, tips]
 categories: [education]
 cover:
-  image: img/20200529/education.jpg
+  image: img/20200529/education.png
   alt: "education"
 ---
 
@@ -29,7 +29,7 @@ My experience is limited compared to a fulltime lectors or course teachers. But 
 
 ## Before the course: asking questions
 
-![Project Structure](/img/20200529/before.jpg)
+![Project Structure](/img/20200529/before.png)
 
 Before starting any educational activity - gather requirements and expectations from all stakeholders of the process. Here are a few questions that you may want to clarify:  
 
@@ -68,7 +68,7 @@ Before starting any educational activity - gather requirements and expectations 
 
 ## During the course: tracking progress
 
-![Project Structure](/img/20200529/during.jpg)
+![Project Structure](/img/20200529/during.png)
 
 - Concentrate on internal automation solutions and processes that can be applied just right away.  
 - Track if students struggle with some concepts and dedicate additional time for explanation.  
@@ -79,7 +79,7 @@ Before starting any educational activity - gather requirements and expectations 
 
 ## After the course: monitoring results
 
-![Project Structure](/img/20200529/after.jpg)
+![Project Structure](/img/20200529/after.png)
 
 - Ask fellow engineers from the team to conduct automation interviews for the students. It will help to bring QA Engineers in terms of a real-world job interview and reveal potential points for improvements.  
 - Implement the way how to track that QA Engineers are contributing to automation in a consistent manner.  In our case, we have a Grafana dashboard that shows all QA contributions to automation-related repositories.  
@@ -89,7 +89,7 @@ Before starting any educational activity - gather requirements and expectations 
 
 ## Overall outcome
 
-![Project Structure](/img/20200529/results.jpg)
+![Project Structure](/img/20200529/results.png)
 
 Here are clear numbers (2018 - 2019):
 

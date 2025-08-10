@@ -8,7 +8,7 @@ summary: "Guide how to publish reports to Allure server and notify users"
 tags: [ci, github, reporting]
 categories: [automation]
 cover:
-  image: img/20210719/notification.jpg
+  image: img/20210719/notification.png
   alt: "education"
 ---
 

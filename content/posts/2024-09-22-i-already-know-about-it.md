@@ -8,7 +8,7 @@ summary: "What to do when everything seems simple"
 tags: [learning]
 categories: [learning]
 cover:
-  image: img/20240922/knowit.jpg
+  image: img/20240922/knowit.png
   alt: "ialreadyknowit"
 ---
 

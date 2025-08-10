@@ -8,7 +8,7 @@ summary: "Few examples of integration testing from real world"
 tags: [testing]
 categories: [testing]
 cover:
-  image: img/20240211/integration.jpg
+  image: img/20240211/integration.png
   alt: "integration"
 ---
 

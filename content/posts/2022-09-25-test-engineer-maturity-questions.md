@@ -8,7 +8,7 @@ summary: "Questions at different levels of test engineer's maturity"
 tags: [career]
 categories: [testing]
 cover:
-  image: img/20220925/ladder.jpg
+  image: img/20220925/ladder.png
   alt: "education"
 ---
 

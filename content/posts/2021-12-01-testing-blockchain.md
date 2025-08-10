@@ -8,7 +8,7 @@ summary: "Different forms of testing blockchain"
 tags: [blockchain, distributed systems]
 categories: [testing]
 cover:
-  image: img/20211201/blockchain.jpg
+  image: img/20211201/blockchain.png
   alt: "education"
 ---
 

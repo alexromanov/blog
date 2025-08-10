@@ -8,7 +8,7 @@ summary: "Blockchain roadmap for test engineers"
 tags: [blockchain, blockchain for testers]
 categories: [testing]
 cover:
-  image: img/20220424/roadmap.jpg
+  image: img/20220424/roadmap.png
   alt: "education"
 ---
 

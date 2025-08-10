@@ -8,7 +8,7 @@ summary: "Pros and cons of using AI tools (for beginners)"
 tags: [tools, ai]
 categories: [tools]
 cover:
-  image: img/20250226/danger-ai.jpg
+  image: img/20250226/danger-ai.png
   alt: "danger-ai"
 ---
 

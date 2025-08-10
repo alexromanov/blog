@@ -8,7 +8,7 @@ summary: "How to test random number generators?"
 tags: [statistics, testing]
 categories: [testing]
 cover:
-  image: img/20211210/random.jpg
+  image: img/20211210/random.png
   alt: "education"
 ---
 

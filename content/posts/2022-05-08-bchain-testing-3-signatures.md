@@ -8,7 +8,7 @@ summary: "Digital signatures from tester's point of view"
 tags: [blockchain, blockchain for testers, encryption]
 categories: [testing]
 cover:
-  image: img/20220515/signature.jpg
+  image: img/20220515/signature.png
   alt: "education"
 ---
 

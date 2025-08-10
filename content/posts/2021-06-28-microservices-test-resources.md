@@ -8,7 +8,7 @@ summary: "Resources for engineers starting microservices testing"
 tags: [microservices, strategy, contract testing]
 categories: [testing]
 cover:
-  image: img/20210628/ms.jpg
+  image: img/20210628/ms.png
   alt: "education"
 ---
 

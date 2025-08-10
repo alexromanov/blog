@@ -8,7 +8,7 @@ summary: "Distributed systems, fallacies and testing"
 tags: [distributed systems]
 categories: [testing]
 cover:
-  image: img/20211223/distributed.jpg
+  image: img/20211223/distributed.png
   alt: "education"
 ---
 

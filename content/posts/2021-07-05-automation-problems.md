@@ -8,7 +8,7 @@ summary: "My thoughts on modern test automation problems and how to solve them"
 tags: [thoughts]
 categories: [automation]
 cover:
-  image: img/20210705/problem.jpg
+  image: img/20210705/problem.png
   alt: "education"
 ---
 

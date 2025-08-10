@@ -8,7 +8,7 @@ summary: "Few tips on how to read books"
 tags: [reading, thoughts]
 categories: [random]
 cover:
-  image: img/20220415/books.jpg
+  image: img/20220415/books.png
   alt: "education"
 ---
 

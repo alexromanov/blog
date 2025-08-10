@@ -8,7 +8,7 @@ summary: "Hashing from tester's point of view"
 tags: [blockchain, blockchain for testers, hashing]
 categories: [testing]
 cover:
-  image: img/20220501/hashing.jpg
+  image: img/20220501/hashing.png
   alt: "education"
 ---
 

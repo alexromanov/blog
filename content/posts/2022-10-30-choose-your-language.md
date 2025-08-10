@@ -8,7 +8,7 @@ summary: "How to choose language for automation? Does it worth to change between
 tags: [thoughts]
 categories: [automation]
 cover:
-  image: img/20221030/choice.jpg
+  image: img/20221030/choice.png
   alt: "education"
 ---
 

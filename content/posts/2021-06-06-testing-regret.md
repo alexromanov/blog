@@ -8,7 +8,7 @@ summary: "Inspired by MoT Bloggers Club challenge"
 tags: [tips]
 categories: [testing]
 cover:
-  image: img/20210606/regret.jpg
+  image: img/20210606/regret.png
   alt: "education"
 ---
 

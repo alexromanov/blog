@@ -8,7 +8,7 @@ summary: "Easy explanation on what is contract testing and why it may be usable"
 tags: [contract testing]
 categories: [testing]
 cover:
-  image: img/20210712/contract.jpg
+  image: img/20210712/contract.png
   alt: "education"
 ---
 

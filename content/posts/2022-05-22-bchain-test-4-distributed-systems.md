@@ -8,7 +8,7 @@ summary: "A glance at distributed systems from the test engineer's point of view
 tags: [blockchain, blockchain for testers, distributed systems]
 categories: [testing]
 cover:
-  image: img/20220522/distsys.jpg
+  image: img/20220522/distsys.png
   alt: "education"
 ---
 

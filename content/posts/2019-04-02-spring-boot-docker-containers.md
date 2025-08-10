@@ -49,7 +49,7 @@ One of the ways is install desired databases, message queues, etc - on our local
 
 **Maybe, there is another way to do it more flexible ...?**  
  
-![Alternative](/img/20190402/alternative.jpg)
+![Alternative](/img/20190402/alternative.png)
 
 **Perhaps, we do not need to install and configure all this software...?**  
 

@@ -8,7 +8,7 @@ summary: "Digging deep into how Git works"
 tags: [git, internals]
 categories: [Under The Hood]
 cover:
-  image: img/20220626/branch.jpg
+  image: img/20220626/branch.png
   alt: "education"
 ---
 
