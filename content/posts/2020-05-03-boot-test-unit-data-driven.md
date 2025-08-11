@@ -7,9 +7,6 @@ description: "In this blog post I will explain how to use a data-driven approach
 summary: "In this blog post I will explain how to use a data-driven approach for unit testing"
 tags: [java, spring boot, unit testing]
 categories: [testing]
-cover:
-  image: img/20200503/input.jpg
-  alt: "input"
 ---
 
 ## Sample application for the test

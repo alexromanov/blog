@@ -7,13 +7,7 @@ description: "Few tips that will help you to succeed with automation interviews"
 summary: "Few tips that will help you to succeed with automation interviews"
 tags: [automation, thoughts]
 categories: [interview]
-cover:
-  image: img/20210809/hire.png
-  alt: "education"
 ---
-
-Photo by [Steve Halama on Unsplash](https://unsplash.com/@steve3p_0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  
 
 We all participate in job interviews. Not all interviews went well. 
 This blog post will share a few tips from my experience ( as a candidate and interviewer) on being a little better at test automation interviews. 

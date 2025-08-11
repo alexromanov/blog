@@ -7,12 +7,7 @@ description: "What are Merkle Trees - from tester's point view"
 summary: "What are Merkle Trees - from tester's point view"
 tags: [blockchain, blockchain for testers]
 categories: [testing]
-cover:
-  image: img/20220619/roots.png
-  alt: "education"
 ---
-
-Photo by [Camille Brodard on Unsplash](https://unsplash.com/photos/peOp2E3Zukk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 This blog post is a part of [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 

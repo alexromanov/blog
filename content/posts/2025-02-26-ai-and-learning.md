@@ -7,12 +7,7 @@ description: "Pros and cons of using AI tools (for beginners)"
 summary: "Pros and cons of using AI tools (for beginners)"
 tags: [tools, ai]
 categories: [tools]
-cover:
-  image: img/20250226/danger-ai.png
-  alt: "danger-ai"
 ---
-
-Photo by [Jason Leung](https://unsplash.com/@ninjason?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/s/photos/ai-robot#:~:text=Jason%20Leung%20on-,Unsplash,-Have%20an%20idea)
 
 Today, I want to discuss pros and cons of using AI tools for beginners. I will also share some tools that I use on a daily basis. 
 

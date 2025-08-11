@@ -7,12 +7,7 @@ description: "How can a regular test engineer affect testability"
 summary: "How can a regular test engineer affect testability"
 tags: [thoughts, testability]
 categories: [testing]
-cover:
-  image: img/20220814/testability.png
-  alt: "education"
 ---
-
-Photo by [Jeswin Thomas on Unsplash](https://unsplash.com/photos/-Cm7hnp4WOg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 ## Why is it testability?
 At first glance, the typical test engineer already has enough things to do:

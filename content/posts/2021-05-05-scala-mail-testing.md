@@ -7,9 +7,6 @@ description: "Mail automation in Scala: sending and receiving messages"
 summary: "Mail automation in Scala: sending and receiving messages"
 tags: [scala, scripts]
 categories: [automation]
-cover:
-  image: img/20210505/mail.png
-  alt: "education"
 ---
 
 ## The case for automation

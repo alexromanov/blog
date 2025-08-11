@@ -7,12 +7,7 @@ description: "Examples of load tests for grpc services"
 summary: "Examples of load tests for grpc services"
 tags: [performance, grpc]
 categories: [testing]
-cover:
-  image: img/20210823/load.png
-  alt: "education"
 ---
-
-Photo by [Riley Crawford on Unsplash](https://unsplash.com/@ricrawfo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Load testing for gRPC - the case
 

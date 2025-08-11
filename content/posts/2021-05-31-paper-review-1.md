@@ -7,9 +7,6 @@ description: "Review of the research paper on testing distributed systems"
 summary: "Review of the research paper on testing distributed systems"
 tags: [paper, distributed systems]
 categories: [review]
-cover:
-  image: img/20210531/paper1.png
-  alt: "education"
 ---
 
 ## New format  

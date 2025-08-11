@@ -7,12 +7,7 @@ description: "How to test random number generators?"
 summary: "How to test random number generators?"
 tags: [statistics, testing]
 categories: [testing]
-cover:
-  image: img/20211210/random.png
-  alt: "education"
 ---
-
-Photo by [dylan nolte on Unsplash](https://unsplash.com/@dylan_nolte?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Situation
 Imagine: you come to an interview for the position of the test engineer. Then you are given an application that generates random numbers (e. g., Random.org). 

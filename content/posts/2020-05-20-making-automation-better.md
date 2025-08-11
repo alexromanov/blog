@@ -7,9 +7,6 @@ description: "In this blog post I share a few tips on how to make automation bet
 summary: "In this blog post I share a few tips on how to make automation better"
 tags: [process, tips]
 categories: [automation]
-cover:
-  image: img/20200520/better.jpg
-  alt: "better"
 ---
 
 ## The question

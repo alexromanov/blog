@@ -7,9 +7,6 @@ summary: "Things to consider before starting an internal automation course for Q
 description: "Things to consider before starting an internal automation course for QA Engineers"
 tags: [teaching, tips]
 categories: [education]
-cover:
-  image: img/20200529/education.png
-  alt: "education"
 ---
 
 ## The need for education

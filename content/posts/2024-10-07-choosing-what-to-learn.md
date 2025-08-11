@@ -7,12 +7,7 @@ description: "How I learn or treating learning as a project"
 summary: "How I learn or treating learning as a project"
 tags: [learning]
 categories: [learning]
-cover:
-  image: img/20241007/choosing-learning.png
-  alt: "choosing-learning"
 ---
-
-Photo by [Patrick Tomasso on Unsplash](https://unsplash.com/@impatrickt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 I recently found a pretty interesting discussion in one of the chats: 
 

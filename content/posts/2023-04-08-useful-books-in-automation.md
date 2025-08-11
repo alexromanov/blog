@@ -7,9 +7,6 @@ description: "My favorite books about testing and engineering"
 summary: "My favorite books about testing and engineering"
 tags: [books, reading]
 categories: [testing]
-cover:
-  image: img/20230408/books.png
-  alt: "education"
 ---
 
 # Why do I read

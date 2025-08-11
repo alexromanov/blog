@@ -7,12 +7,7 @@ description: "Encryption from tester's point of view"
 summary: "Encryption from tester's point of view"
 tags: [blockchain, blockchain for testers, encryption]
 categories: [testing]
-cover:
-  image: img/20220508/encryption.png
-  alt: "education"
 ---
-
-Photo by [Mauro Sbicego on Unsplash](https://unsplash.com/photos/4hfpVsi-gSg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 This is the second blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 

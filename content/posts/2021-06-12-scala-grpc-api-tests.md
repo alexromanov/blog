@@ -7,12 +7,7 @@ description: "How to automate gRPC based services in Scala"
 summary: "How to automate gRPC based services in Scala"
 tags: [scala, grpc]
 categories: [automation]
-cover:
-  image: img/20210612/grpc-pic.png
-  alt: "education"
 ---
-
-Photo by [Nick Fewings on Unsplash](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## What is gRPC?
 

@@ -7,12 +7,7 @@ description: "What is blockchain - from tester's point view"
 summary: "What is blockchain - from tester's point view"
 tags: [blockchain, blockchain for testers]
 categories: [testing]
-cover:
-  image: img/20220605/bch.png
-  alt: "education"
 ---
-
-Photo by [Robynne Hu on Unsplash](https://unsplash.com/photos/HOrhCnQsxnQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 This is the sixth blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 

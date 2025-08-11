@@ -7,9 +7,6 @@ description: "My insights after reading the latest book about engineering at Goo
 summary: "My insights after reading the latest book about engineering at Google"
 tags: [books]
 categories: [review]
-cover:
-  image: img/20200421/scale.jpg
-  alt: "scale"
 ---
 
 ### Another book from Google

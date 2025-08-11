@@ -7,12 +7,7 @@ description: "What to do when everything seems simple"
 summary: "What to do when everything seems simple"
 tags: [learning]
 categories: [learning]
-cover:
-  image: img/20240922/knowit.png
-  alt: "ialreadyknowit"
 ---
-
-Photo by [Anna Mould on Unsplash](https://unsplash.com/@phosphoricc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 # I already know about it
 

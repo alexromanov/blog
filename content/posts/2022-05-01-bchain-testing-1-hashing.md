@@ -7,12 +7,7 @@ description: "Hashing from tester's point of view"
 summary: "Hashing from tester's point of view"
 tags: [blockchain, blockchain for testers, hashing]
 categories: [testing]
-cover:
-  image: img/20220501/hashing.png
-  alt: "education"
 ---
-
-Photo by [Pan Yunbo on Unsplash](https://unsplash.com/photos/EgL0EtzL0Wc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink). 
 
 This is the first blog post in the "Blockchain for Test Engineers" series.  
 

@@ -7,12 +7,7 @@ description: "Which tests are the most complicated ones?"
 summary: "Which tests are the most complicated ones?"
 tags: [thoughts, ui]
 categories: [testing]
-cover:
-  image: img/20220717/challenge.png
-  alt: "education"
 ---
-
-Photo by [GR Stocks on Unsplash](https://unsplash.com/photos/Iq9SaJezkOE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 Are UI tests that easy to write and maintain? Are unit and integration tests really the most complicated tests. 
 

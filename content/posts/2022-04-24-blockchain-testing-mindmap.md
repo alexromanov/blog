@@ -7,13 +7,7 @@ description: "Blockchain roadmap for test engineers"
 summary: "Blockchain roadmap for test engineers"
 tags: [blockchain, blockchain for testers]
 categories: [testing]
-cover:
-  image: img/20220424/roadmap.png
-  alt: "education"
----
-
-Photo by delfi de la Rua on Unsplash](https://unsplash.com/@delfidelarua7?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  
+---  
 
 Last year I talked a bit about **[challenges in testing](https://testengineeringnotes.com/posts/2021-08-02-blockchain-testing-challenges/)** blockchain systems and **[knowledge](https://testengineeringnotes.com/posts/2021-12-01-testing-blockchain/)** you might need to understand it.  
 

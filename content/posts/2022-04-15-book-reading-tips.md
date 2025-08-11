@@ -7,13 +7,7 @@ description: "Few tips on how to read books"
 summary: "Few tips on how to read books"
 tags: [reading, thoughts]
 categories: [random]
-cover:
-  image: img/20220415/books.png
-  alt: "education"
 ---
-
-Photo by Gülfer ERGİN on Unsplash]("https://unsplash.com/@gulfergin_01?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 
 In my post about the [2021 results](https://testengineeringnotes.com/posts/2021-12-31-2021-review/), I mentioned that I read 40 books during the year. Today I want to share some tips that help me read books.  
 

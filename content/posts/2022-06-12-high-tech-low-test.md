@@ -7,12 +7,7 @@ description: "My thoughts on problems with modern testing"
 summary: "My thoughts on problems with modern testing"
 tags: [thoughts]
 categories: [testing]
-cover:
-  image: img/20220612/hightech.png
-  alt: "education"
 ---
-
-Photo by [Leyre on Unsplash](https://unsplash.com/photos/71SHXwBLp5w?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 I have been working in test automation and development for more than ten years. I've seen good projects, and I've seen awful ones.  
 

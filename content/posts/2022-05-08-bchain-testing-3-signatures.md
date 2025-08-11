@@ -7,12 +7,7 @@ description: "Digital signatures from tester's point of view"
 summary: "Digital signatures from tester's point of view"
 tags: [blockchain, blockchain for testers, encryption]
 categories: [testing]
-cover:
-  image: img/20220515/signature.png
-  alt: "education"
 ---
-
-Photo by [David Nitschke on Unsplash](https://unsplash.com/photos/pegxjW_1YOU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 This is the third blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 

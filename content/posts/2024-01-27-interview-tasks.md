@@ -7,12 +7,7 @@ description: "My thoughts on different interview tasks for automation engineer"
 summary: "My thoughts on different interview tasks for automation engineer"
 tags: [testing, automation, interview]
 categories: [testing]
-cover:
-  image: img/20240127/interviewtasks.png
-  alt: "interviewtasks"
 ---
-
-Picture by [ChatGPT](https://chat.openai.com/)
 
 # On interview tasks for the test automation engineer 
   

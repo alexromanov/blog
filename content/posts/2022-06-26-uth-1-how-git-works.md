@@ -7,12 +7,7 @@ description: "Digging deep into how Git works"
 summary: "Digging deep into how Git works"
 tags: [git, internals]
 categories: [Under The Hood]
-cover:
-  image: img/20220626/branch.png
-  alt: "education"
 ---
-
-Photo by [Sebastian Herrmann on Unsplash](https://unsplash.com/photos/scZjGeVXCq8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 Finding a test engineer who would not have heard of version control systems is difficult nowadays. Some have worked (and work with quite "old") - such as **[Subversion](https://en.wikipedia.org/wiki/Subversion)**, **[Mercurial HG](https://en.wikipedia.org/wiki/Mercurial)**, etc. 
 

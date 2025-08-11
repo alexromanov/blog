@@ -7,12 +7,7 @@ description: "My thoughts on modern test automation problems and how to solve th
 summary: "My thoughts on modern test automation problems and how to solve them"
 tags: [thoughts]
 categories: [automation]
-cover:
-  image: img/20210705/problem.png
-  alt: "education"
 ---
-
-Photo by [kevin laminto on Unsplash](https://unsplash.com/@kxvn_lx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Brave new world  
 

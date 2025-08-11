@@ -7,12 +7,7 @@ description: "A glance at distributed systems from the test engineer's point of 
 summary: "A glance at distributed systems from the test engineer's point of view"
 tags: [blockchain, blockchain for testers, distributed systems]
 categories: [testing]
-cover:
-  image: img/20220522/distsys.png
-  alt: "education"
 ---
-
-Photo by [Shubham Dhage on Unsplash](https://unsplash.com/photos/gC_aoAjQl2Q?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 This is the fourth blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 

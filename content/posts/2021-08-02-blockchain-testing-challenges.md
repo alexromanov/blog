@@ -7,12 +7,7 @@ description: "Why is blockchain testing not an easy thing?"
 summary: "Why is blockchain testing not an easy thing?"
 tags: [paper, blockchain, distributed systems]
 categories: [review]
-cover:
-  image: img/20210802/bc.png
-  alt: "education"
 ---
-
-Photo by [Terry on Unsplash](https://unsplash.com/@blueskin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Blockchain and applications
 

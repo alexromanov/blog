@@ -16,7 +16,7 @@ params:
   defaultTheme: auto
   homeInfoParams:
     Title: "Test Engineering Notes"
-    Content: "By Oleksandr Romanov"
+    Content: "Notes on test engineering, distributed systems, blockchain and AI"
   socialIcons:
     - name: github
       url: "https://github.com/alexromanov"
@@ -64,3 +64,10 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 75
+  resampleFilter: box

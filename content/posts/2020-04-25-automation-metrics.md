@@ -7,9 +7,6 @@ description: "How to make test automation effort more goal-oriented via metrics"
 summary: "How to make test automation effort more goal-oriented via metrics"
 tags: [metrics, process]
 categories: [automation]
-cover:
-  image: img/20200425/metrics.jpg
-  alt: "metrics"
 ---
 
 ## The road to automation

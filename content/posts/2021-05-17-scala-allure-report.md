@@ -7,9 +7,6 @@ description: "How to add Allure reports to Scala tests"
 summary: "How to add Allure reports to Scala tests"
 tags: [scala, selenium, ui]
 categories: [automation]
-cover:
-  image: img/20210517/allure-report.png
-  alt: "education"
 ---
 
 Photo by [Isaac Smith](https://unsplash.com/@isaacmsmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash

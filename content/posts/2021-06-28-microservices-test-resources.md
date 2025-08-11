@@ -7,12 +7,7 @@ description: "Resources for engineers starting microservices testing"
 summary: "Resources for engineers starting microservices testing"
 tags: [microservices, strategy, contract testing]
 categories: [testing]
-cover:
-  image: img/20210628/ms.png
-  alt: "education"
 ---
-
-Photo by [Ryoji Iwata on Unsplash](https://unsplash.com/@ryoji__iwata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Microservices testing: from the theory to practice  
 

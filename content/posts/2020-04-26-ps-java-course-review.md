@@ -7,9 +7,6 @@ description: "Review of Java courses which I've recently completed at Pluralsigh
 summary: "Review of Java courses which I've recently completed at Pluralsight"
 tags: [courses, java, spring boot]
 categories: [review]
-cover:
-  image: img/20200426/psfree.jpg
-  alt: "pluralsight"
 ---
 
 ## The Why

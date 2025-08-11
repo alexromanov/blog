@@ -7,9 +7,6 @@ description: "Usage of flipped classroom approach in test automation education"
 summary: "Usage of flipped classroom approach in test automation education"
 tags: [teaching, tips]
 categories: [education]
-cover:
-  image: img/20191015/upsidedown.png
-  alt: "upsidedown"
 ---
 **Audience: QA Leads, QA Automation Engineers, QA Managers**
 

@@ -7,9 +7,6 @@ description: "In this blog post I will show a quick hint on how to keep commit h
 summary: "In this blog post I will show a quick hint on how to keep commit history clean by using squash"
 tags: [git]
 categories: [tools]
-cover:
-  image: img/20200505/history.jpg
-  alt: "history"
 ---
 
 ## Bad things happen

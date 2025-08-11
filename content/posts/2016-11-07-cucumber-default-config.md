@@ -7,9 +7,6 @@ summary: "In the following post I will share a quick tip on how to set up Idea t
 description: "In the following post I will share a quick tip on how to set up Idea to run scenario from feature file"
 tags: [scala, cucumber, bdd]
 categories: [automation]
-cover:
-  image: img/20160715/cucumber-scala.png
-  alt: "Cucumber Scala image"
 ---
 
 _In the following post I will share a quick tip on how to set up Idea to run scenario from feature file_  

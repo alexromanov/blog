@@ -7,12 +7,7 @@ description: "Peer-to-peer and gossip protocols"
 summary: "Peer-to-peer and gossip protocols"
 tags: [blockchain, blockchain for testers, p2p]
 categories: [testing]
-cover:
-  image: img/20220529/network.png
-  alt: "education"
 ---
-
-Photo by [Federico Beccari on Unsplash](https://unsplash.com/photos/ahi73ZN5P0Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 This is the fifth blog post in the [**"Blockchain for Test Engineers"**](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/) series.  
 

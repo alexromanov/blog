@@ -7,12 +7,7 @@ description: "How we, as test engineers, bring value to the team and company"
 summary: "How we, as test engineers, bring value to the team and company"
 tags: [testing, automation]
 categories: [testing]
-cover:
-  image: img/20240201/testingvalue.png
-  alt: "testingvalue"
 ---
-
-Picture by [ChatGPT](https://chat.openai.com/)
 
 # The engineers and their value
 How does our daily work create value for a company?  

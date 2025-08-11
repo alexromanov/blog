@@ -7,12 +7,7 @@ description: "Multiple approaches to solve popular interview question"
 summary: "Multiple approaches to solve popular interview question"
 tags: [python, interview]
 categories: [python]
-cover:
-  image: img/20240924/fibonacci.png
-  alt: "fibonacci"
 ---
-
-Photo by [David Clode on Unsplash](https://unsplash.com/@davidclode?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 # What is Fibonacci sequence?
 

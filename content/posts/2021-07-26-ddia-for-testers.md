@@ -7,9 +7,6 @@ description: "Why every test engineer should read DDIA book"
 summary: "Why every test engineer should read DDIA book"
 tags: [books, distributed systems]
 categories: [review]
-cover:
-  image: img/20210726/ddia.png
-  alt: "education"
 ---
 
 Being a test engineer does not mean blindly execute test cases for each regression cycle. To design more valuable test scenarios, you need to get more knowledge about the product.  

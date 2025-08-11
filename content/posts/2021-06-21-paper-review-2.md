@@ -7,12 +7,7 @@ description: "Review of paper about Non-Deterministic Concurrency Bugs"
 summary: "Review of paper about Non-Deterministic Concurrency Bugs"
 tags: [paper, distributed systems]
 categories: [review]
-cover:
-  image: img/20210621/bugs.png
-  alt: "education"
 ---
-
-Photo by [Xuan Nguyen on Unsplash](https://unsplash.com/@darthxuan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Bugs in real life
 

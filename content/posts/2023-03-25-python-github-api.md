@@ -7,9 +7,6 @@ description: "Short note on how to use Github API to get file content"
 summary: "Short note on how to use Github API to get file content"
 tags: [python, scripts]
 categories: [automation]
-cover:
-  image: img/20230325/repository-content.png
-  alt: "education"
 ---
 
 # Task

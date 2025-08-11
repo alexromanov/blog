@@ -7,9 +7,6 @@ description: "Easy way how to make integration and component testing for Spring 
 summary: "Easy way how to make integration and component testing for Spring Boot microservices with Docker containers"
 tags: [java, spring boot, microservices, docker]
 categories: [automation]
-cover:
-  image: img/20190402/docks.jpg
-  alt: "Docks"
 ---
 **Audience: SDET, Java developers**
 

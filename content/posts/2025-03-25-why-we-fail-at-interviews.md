@@ -7,9 +7,6 @@ description: "Why do we fail at interviews and what we can do about it"
 summary: "Why do we fail at interviews and what we can do about it"
 tags: [interview]
 categories: [post]
-cover:
-  image: img/20250325/fail-interview.png
-  alt: "fail-interview"
 ---
 
 Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

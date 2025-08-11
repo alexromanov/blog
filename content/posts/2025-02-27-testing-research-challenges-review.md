@@ -7,9 +7,6 @@ description: "An overview of the current state of software testing and open rese
 summary: "An overview of the current state of software testing and open research questions"
 tags: [testing, ai, engineering, review]
 categories: [review]
-cover:
-  image: img/20250227/testing-challenges-research-paper.png
-  alt: "testing-paper"
 ---
 
 A few years ago, I published a few reviews of research papers ([1](https://testengineeringnotes.com/posts/2021-05-31-paper-review-1/) and [2](https://testengineeringnotes.com/posts/2021-06-21-paper-review-2/)).

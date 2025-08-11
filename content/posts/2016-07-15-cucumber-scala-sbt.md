@@ -7,9 +7,6 @@ summary: "In the following post I will show how to configure a new project in or
 description: "In the following post I will show how to configure a new project in order to write integration tests with Cucumber, Scala and SBT build tool."
 tags: [scala, cucumber, bdd]
 categories: [automation]
-cover:
-  image: img/20160715/cucumber-scala.png
-  alt: "Cucumber Scala image"
 ---
 
 _In the following post I will show how to configure a new project in order to write integration tests with Cucumber, Scala and SBT build tool._  

@@ -7,9 +7,6 @@ description: "Pros and cons of test tasks for automation engineers"
 summary: "Pros and cons of test tasks for automation engineers"
 tags: [interview, tips]
 categories: [interview]
-cover:
-  image: img/20210518/test-task.png
-  alt: "education"
 ---
 
 ## Interviews  

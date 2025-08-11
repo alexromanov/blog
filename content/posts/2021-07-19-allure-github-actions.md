@@ -7,12 +7,7 @@ description: "Guide how to publish reports to Allure server and notify users"
 summary: "Guide how to publish reports to Allure server and notify users"
 tags: [ci, github, reporting]
 categories: [automation]
-cover:
-  image: img/20210719/notification.png
-  alt: "education"
 ---
-
-Photo by [Markus Spiske on Unsplash](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 In one of the [previous blog posts](https://testengineeringnotes.com/posts/2021-05-17-scala-allure-report/), I showed how to add Allure reporting to the Scala-based automation project.  
 

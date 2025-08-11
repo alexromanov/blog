@@ -7,12 +7,7 @@ description: "Inspired by MoT Bloggers Club challenge"
 summary: "Inspired by MoT Bloggers Club challenge"
 tags: [tips]
 categories: [testing]
-cover:
-  image: img/20210606/regret.png
-  alt: "education"
 ---
-
-Photo by [Brett Jordan on Unsplash](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Testing regrets 
   

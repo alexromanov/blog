@@ -7,12 +7,7 @@ description: "A curated list of good books for test automation engineers"
 summary: "A curated list of good books for test automation engineers"
 tags: [test-automation, books]
 categories: [post]
-cover:
-  image: img/20250807/automation-books.png
-  alt: "automation-books"
 ---
-
-Photo by <a href="https://unsplash.com/@tomhermans?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tom Hermans</a> on <a href="https://unsplash.com/photos/book-lot-on-table-9BoqXzEeQqM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 # 🤖 What to read in test automation?
 

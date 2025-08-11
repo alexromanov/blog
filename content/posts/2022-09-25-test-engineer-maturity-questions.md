@@ -7,12 +7,7 @@ description: "Questions at different levels of test engineer's maturity"
 summary: "Questions at different levels of test engineer's maturity"
 tags: [career]
 categories: [testing]
-cover:
-  image: img/20220925/ladder.png
-  alt: "education"
 ---
-
-Photo by [Lance Grandahl on Unsplash](https://unsplash.com/photos/9lcTOjGQRsI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 # Questions
 From time to time, similar questions arise in various tester chats and forums:

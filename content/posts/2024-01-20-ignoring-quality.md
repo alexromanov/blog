@@ -7,12 +7,7 @@ description: "Is it always possible to assure the quality?"
 summary: "Is it always possible to assure the quality?"
 tags: [testing]
 categories: [testing]
-cover:
-  image: img/20240120/ignore.png
-  alt: "ignore"
 ---
-
-Picture by [ChatGPT](https://chat.openai.com/)
 
 # On ignoring the recommendations and quality  
   

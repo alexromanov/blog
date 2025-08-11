@@ -7,12 +7,7 @@ description: "Distributed systems, fallacies and testing"
 summary: "Distributed systems, fallacies and testing"
 tags: [distributed systems]
 categories: [testing]
-cover:
-  image: img/20211223/distributed.png
-  alt: "education"
 ---
-
-Photo by [Alina Grubnyak on Unsplash](https://unsplash.com/@alinnnaaaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## What is a Distributed System?
 In simple words, a **distributed system** is a system that **consists of many nodes** (for example, computers, processes, devices) that **communicate over a network** and **perform some form of a task together.**

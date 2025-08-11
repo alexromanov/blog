@@ -7,12 +7,7 @@ description: "How to choose language for automation? Does it worth to change bet
 summary: "How to choose language for automation? Does it worth to change between languages and tech stacks?"
 tags: [thoughts]
 categories: [automation]
-cover:
-  image: img/20221030/choice.png
-  alt: "education"
 ---
-
-Photo by [Javier Allegue Barros on Unsplash](https://unsplash.com/photos/C7B-ExXpOIE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 **You are at the beginning of your testing career...** You see that in many job descriptions, they ask about test automation skills. Or you heard that by working in automation, you can earn more money (which depends). 
 **Which programming language to choose? Which language and tech stack is best of the best? Is there a single choice for it?**

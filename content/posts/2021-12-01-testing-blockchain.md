@@ -7,12 +7,7 @@ description: "Different forms of testing blockchain"
 summary: "Different forms of testing blockchain"
 tags: [blockchain, distributed systems]
 categories: [testing]
-cover:
-  image: img/20211201/blockchain.png
-  alt: "education"
 ---
-
-Photo by [Akinori UEMURA on Unsplash](https://unsplash.com/@a_uem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Blockchain is a hype topic nowadays. It seems that every other person is making their own cryptocurrency or opening a cryptocurrency exchange at the corner of the street :).
 

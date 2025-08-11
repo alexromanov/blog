@@ -7,12 +7,7 @@ description: "Thoughts on why we do software testing"
 summary: "Thoughts on why we do software testing"
 tags: [testing]
 categories: [testing]
-cover:
-  image: img/20240118/whywetest.png
-  alt: "whywetest"
 ---
-
-Picture by [ChatGPT](https://chat.openai.com/)
 
 # Why are we testing?
 

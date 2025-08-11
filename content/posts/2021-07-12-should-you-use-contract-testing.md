@@ -7,12 +7,7 @@ description: "Easy explanation on what is contract testing and why it may be usa
 summary: "Easy explanation on what is contract testing and why it may be usable"
 tags: [contract testing]
 categories: [testing]
-cover:
-  image: img/20210712/contract.png
-  alt: "education"
 ---
-
-Photo by [Cytonn Photography on Unsplash](https://unsplash.com/@cytonn_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Almost any tester involved in testing microservices-based systems has heard about the magic contract testing.  
  

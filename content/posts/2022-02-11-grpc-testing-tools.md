@@ -7,12 +7,7 @@ description: "Which tool to choose for testing gRPC services?"
 summary: "Which tool to choose for testing gRPC services?"
 tags: [grpc, tools]
 categories: [testing]
-cover:
-  image: img/20220211/tools.png
-  alt: "education"
 ---
-
-Photo by [Cesar Carlevarino Aragon on Unsplash](https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 In [one of my previous posts](https://testengineeringnotes.com/posts/2021-06-12-scala-grpc-api-tests/), I have shared how to implement automation tests for testing gRPC services. Automation is, of course, a fantastic thing.  
 

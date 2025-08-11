@@ -7,9 +7,6 @@ description: "How to write basic Selenium tests using ScalaTest"
 summary: "How to write basic Selenium tests using ScalaTest"
 tags: [scala, selenium, ui]
 categories: [automation]
-cover:
-  image: img/20210512/selenium-scala.png
-  alt: "education"
 ---
 
 ## Scala in test automation

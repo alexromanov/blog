@@ -7,9 +7,6 @@ description: "Tiny remainder about git flow for development"
 summary: "Tiny remainder about git flow for development"
 tags: [git]
 categories: [tools]
-cover:
-  image: img/20181109/gitvisual.png
-  alt: "Git Visual"
 ---
 
 ### Explaining git flow for new test automation engineers 

@@ -7,12 +7,7 @@ description: "Few examples of integration testing from real world"
 summary: "Few examples of integration testing from real world"
 tags: [testing]
 categories: [testing]
-cover:
-  image: img/20240211/integration.png
-  alt: "integration"
 ---
-
-Photo by [Luis Villasmil on Unsplash](https://unsplash.com/@villxsmil?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 # On integration testing examples  
   
