@@ -8,6 +8,9 @@ summary: "Talks"
 
 | Talk | Event | Year |
 | -----| ----- | ---- |
+| [Software Testing Careers: The Roadmap](https://www.ministryoftesting.com/talks/software-testing-careers-the-roadmap-by-oleksandr-romanov-for-mot-tunis) | Ministry of Testing, Tunis, Online | 2025 |
+| Як обрати школу тестування | QADay, Ukraine, Online | 2025 |
+| Кар'єрний шлях спеціаліста з тестування | National Technical University of Ukraine, Online | 2023 |
 | How to test a blockchain? | Colombo Quality Week, Sri Lanka | 2023 |
 | [Що значить тестувати блокчейн](https://youtu.be/lGjqihPPvRE?si=1vClwn8qRemRkvTS) | QA Party Hard, Ukraine | 2023 |
 | [What does it mean to test a blockchain?](https://youtu.be/LLF45RHA3AM) | SoftServe QM Week, Online | 2022 | 
