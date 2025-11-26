@@ -59,7 +59,7 @@ Big companies can create their own internal frameworks when they have a need of 
 
 **Test automation solution - is a combination of a framework, tests and lots of additional utilities, test data, CICD scripts, cloud runners, reporting, etc.** 
 
-![Project Structure](/img/20251126/taf-vs-tas.jpg)
+![Project Structure](/img/20251126/tas.jpg)
 
 The key thing here is that ***solution is always taylored for a particular product.*** 
 
@@ -71,7 +71,7 @@ When you implement a solution - you inevitably implement (or reuse) some kind of
 
 # 🎓 As a conclusion
 
-![Project Structure](/img/20251126/tas.jpg)
+![Project Structure](/img/20251126/taf-vs-tas.jpg)
 
 **When you implement automated tests - you always work in the context of the specific test automation solution with the use of particular automated framework.** Whether you will later separate part of the solution into a separate "internal framework" - time will tell.
 
