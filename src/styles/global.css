@@ -26,13 +26,11 @@
   prefersdark: false;
   color-scheme: light;
 
-  /* Page bg / cards / dividers / body text */
-  --color-base-100: oklch(100% 0 0); /* card bg (white)         */
-  --color-base-200: oklch(97% 0.0015 264); /* page bg #f6f7f8         */
-  --color-base-300: oklch(91% 0.0025 264); /* dividers #e8e8e8        */
-  --color-base-content: oklch(20% 0.012 264); /* near-black text         */
+  --color-base-100: oklch(100% 0 0);
+  --color-base-200: oklch(98.5% 0.002 264);
+  --color-base-300: oklch(92.8% 0.006 264);
+  --color-base-content: oklch(21% 0.015 264);
 
-  /* Chirpy indigo-blue primary (~ #2a408e) */
   --color-primary: oklch(45% 0.135 264);
   --color-primary-content: oklch(99% 0.003 264);
 
@@ -68,48 +66,56 @@
 }
 
 /* ---------- Chirpy DARK ---------- */
+/* ---------- Chirpy DARK (GitHub Inspired) ---------- */
 @plugin 'daisyui/theme' {
   name: 'chirpy-dark';
   default: false;
   prefersdark: true;
   color-scheme: dark;
 
-  /* Chirpy dark uses #1b1b1e for the page and #1e1e1f for cards */
-  --color-base-100: oklch(22% 0.005 264);
-  --color-base-200: oklch(20% 0.005 264);
-  --color-base-300: oklch(28% 0.008 264);
-  --color-base-content: oklch(86% 0.01 264);
+  /* GitHub Dark surfaces */
+  --color-base-100: #161b22; /* cards */
+  --color-base-200: #0d1117; /* page background */
+  --color-base-300: #21262d; /* borders/dividers */
+  --color-base-content: #e6edf3; /* GitHub text */
 
-  /* Lighter indigo for dark mode contrast (~ #7895d4) */
-  --color-primary: oklch(72% 0.11 264);
-  --color-primary-content: oklch(15% 0.015 264);
+  /* GitHub blue */
+  --color-primary: #58a6ff;
+  --color-primary-content: #0d1117;
 
-  --color-secondary: oklch(75% 0.09 200);
-  --color-secondary-content: oklch(15% 0.015 264);
+  /* Muted gray-blue */
+  --color-secondary: #8b949e;
+  --color-secondary-content: #0d1117;
 
-  --color-accent: oklch(80% 0.13 75);
-  --color-accent-content: oklch(15% 0.015 75);
+  /* Accent green */
+  --color-accent: #3fb950;
+  --color-accent-content: #0d1117;
 
-  --color-neutral: oklch(28% 0.01 264);
-  --color-neutral-content: oklch(95% 0.005 264);
+  /* Neutral */
+  --color-neutral: #21262d;
+  --color-neutral-content: #e6edf3;
 
-  --color-info: oklch(72% 0.12 230);
-  --color-info-content: oklch(15% 0.015 230);
+  /* Semantic colors */
+  --color-info: #58a6ff;
+  --color-info-content: #0d1117;
 
-  --color-success: oklch(72% 0.14 145);
-  --color-success-content: oklch(15% 0.015 145);
+  --color-success: #3fb950;
+  --color-success-content: #0d1117;
 
-  --color-warning: oklch(80% 0.15 80);
-  --color-warning-content: oklch(15% 0.015 80);
+  --color-warning: #d29922;
+  --color-warning-content: #0d1117;
 
-  --color-error: oklch(72% 0.18 27);
-  --color-error-content: oklch(15% 0.015 27);
+  --color-error: #f85149;
+  --color-error-content: #0d1117;
 
+  /* Layout */
   --radius-selector: 0.375rem;
   --radius-field: 0.375rem;
   --radius-box: 0.5rem;
+
   --size-selector: 0.25rem;
   --size-field: 0.25rem;
+
   --border: 1px;
   --depth: 0;
   --noise: 0;
