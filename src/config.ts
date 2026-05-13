@@ -62,7 +62,7 @@ export const SITE: SiteConfig = {
   /** Default OG image. */
   defaultOgImage: ogDefaultImg.src,
   /** Number of posts per page on listings. */
-  postsPerPage: 10,
+  postsPerPage: 8,
   /** Display ISO 8601 date format if true, otherwise locale-aware. */
   isoDates: false,
   /** Site-wide default for whether posts should display their featured image. */
