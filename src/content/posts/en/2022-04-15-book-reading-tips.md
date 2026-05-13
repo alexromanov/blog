@@ -3,7 +3,7 @@ title: 'Tips on reading books'
 description: 'Few tips on how to read books'
 pubDate: 2022-04-15
 tags: [reading]
-categories: [Reading]
+categories: [Recommendation]
 translationKey: book-reading-tips
 toc: true
 ---

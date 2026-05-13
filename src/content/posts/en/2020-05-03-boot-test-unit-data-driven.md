@@ -3,7 +3,7 @@ title: 'Magic of Spring Boot testing: Data-driven unit tests'
 description: 'In this blog post I will explain how to use a data-driven approach for unit testing.'
 pubDate: 2020-05-03
 tags: [java, spring, testing]
-categories: [Reviews]
+categories: [Automation]
 translationKey: java-spring-unit-testing
 toc: true
 ---
