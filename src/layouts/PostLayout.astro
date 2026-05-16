@@ -152,27 +152,6 @@ const crumbs = [
       </div>
     </header>
 
-    {
-      showHero && heroAsset && (
-        <figure class="post-hero mb-8">
-          <div class="post-hero__frame">
-            <SmartImage
-              src={heroAsset}
-              alt={heroAlt}
-              class="post-hero__img"
-              loading="eager"
-              widths={[480, 768, 1024, 1280, 1600]}
-              sizes="(max-width: 768px) 100vw, 1024px"
-              quality={82}
-            />
-          </div>
-          {heroAlt && (
-            <figcaption class="text-base-content/70 mt-2 text-center text-xs">{heroAlt}</figcaption>
-          )}
-        </figure>
-      )
-    }
-
     <div class="prose-chirpy max-w-none">
       <slot />
     </div>

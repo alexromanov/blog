@@ -7,7 +7,7 @@ categories: [Reviews]
 translationKey: contract-testing-book-review
 toc: true
 heroImage: ../../../assets/images/posts/20260513/ctia-book.png
-heroAlt: 'Contract vs E2E tests graph from Contract Testing in Action book'
+heroAlt: 'Contract Testing in Action book cover'
 ---
 
 ## You have done everything right, but still have bugs
@@ -62,6 +62,8 @@ Let me give you a few reasons why **["Contract Testing in Action: With Pact, Pac
 ### Illustrative intro to contracts
 
 The book gives you a gradual introduction to contract testing. It starts from an idea and leads to the place of contract testing within the test levels of the modern applications. Marie and Lewis provide you with a lot of examples and beautiful illustrations. 
+
+![Project Structure](../../../assets/images/posts/20260513/contracts.png)
 
 Illustrations are what help you to grasp contract testing concepts and processes. It can be hard to explain the whole process just in words, so diagrams do this work well. 
 
