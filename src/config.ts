@@ -104,7 +104,7 @@ export const SITE: SiteConfig = {
   /** Public URL of the deployed site, no trailing slash. Breaks SEO/RSS if incorrect. */
   // `||` (not `??`) so an explicitly empty `SITE_URL=` in `.env` also
   // falls back to the default. Astro requires `site` to be a valid URL.
-  url: import.meta.env.SITE_URL || 'https://chirping-astro.example.com',
+  url: import.meta.env.SITE_URL || 'https://testengineeringnotes.com',
   /** Supported locales. Changing this requires adding/removing locale folders, content, and i18n entries. */
   locales: locales,
   /** Default locale. Changing this is a breaking, atomic, multi-file operation. */
