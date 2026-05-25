@@ -2,10 +2,12 @@
 title: 'Book Review: Designing Data-Intensive Applications'
 description: 'Why every test engineer should read DDIA book.'
 pubDate: 2021-07-26
-tags: [book, distributed-systems]
+tags: [book, distributed-systems, engineering]
 categories: [Reviews]
 translationKey: review-for-ddia-book
 toc: true
+heroImage: ../../../assets/images/posts/20210726/ddia-cover.png
+heroAlt: 'Designing Data-Intensive Applications book cover'
 ---
 
 Being a test engineer does not mean blindly execute test cases for each regression cycle. To design more valuable test scenarios, you need to get more knowledge about the product.
