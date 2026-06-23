@@ -96,3 +96,5 @@ By the way, there are not so many books on AI in testing yet. So this book is a 
 
 > P.S. If you are interested in learning how to do API testing effectively, check out also the other book from Mark Winteringham - ["Testing Web APIs"](https://testengineeringnotes.com/posts/2026-05-16-testing-web-apis-review/).
 
+> P.P.S. If you want to explore the topic of generative AI in testing more - I can recommend to watch or listen an [episode of Testing Minutes podcast](https://youtu.be/Pc1qSZVez9Q?si=8UQ9oXRikP5r8thJ) that we recorded with Mark as a guest speaker. 
+
