@@ -87,7 +87,7 @@ Elisabeth Hendrickson tells about multiple forms of exploration.
 
 - Explore requirements: listen for "-ilities", as they will tell you about the important information
 - Explore existing system: with a **recon session** and interviewing stakeholders, you can find out new ideas to explore in the features you already know
-- Explore with UI: check the source code of the application, the schema, or the API for a service
+- Explore beyond the UI: check the source code of the application, the schema, or the API for a service
 
 ### 5. Recognizing exploratory skills
 
@@ -102,12 +102,10 @@ This approach can be extended to any type of application or a product for a test
 
 ## Conclusion
 
-Let's start with a con. The book was published in 2013. It's pretty old in terms of how AI is evolving.
+Let's start with cons. The book was published in 2013. It's pretty old in terms of how AI is evolving. But!
 
-But what makes ["Explore It!"](https://a.co/d/08uC3aur) useful is that the approaches are applicable to any kind of system - even an AI-based one. You can explore your software whenever you want. Techniques are universal. 
+What makes ["Explore It!"](https://a.co/d/08uC3aur) useful is that the approaches are applicable to any kind of systems - even an AI-based ones. You can explore your software whenever you want. Techniques are universal. 
 
-The best advice that you can get from the "Explore It!" book is **" when the map and the territory differ, believe the territory.**
+The best advice that you can get from the "Explore It!" book is **"... when the map and the territory differ, believe the territory.** Requirements, user stories, and test cases are a map. The actual software is a territory. Exploratory testing is about exercising the real working software and evaluating it critically (*now, Rapid Software Testing principles and terms are somewhere near*).
 
-["Explore It!"](https://a.co/d/08uC3aur) by Elisabeth Hendrickson, paired with ["Exploratory Software Testing: Tips, Tricks, Tours, and Techniques to Guide Test Design"](https://a.co/d/08OGwgY3) by James A. Whittaker, will cover a lot on the topic of exploratory testing. 
-
-Requirements, user stories, and test cases are a map. The actual software is a territory. Exploratory testing is about exercising the real working software and evaluating it critically (*now, Rapid Software Testing principles and terms are somewhere near*).
+["Explore It!"](https://a.co/d/08uC3aur) by Elisabeth Hendrickson, paired with ["Exploratory Software Testing: Tips, Tricks, Tours, and Techniques to Guide Test Design"](https://a.co/d/08OGwgY3) by James A. Whittaker, will cover a lot on the topic of exploratory testing.
