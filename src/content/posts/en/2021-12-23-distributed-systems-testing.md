@@ -1,7 +1,7 @@
 ---
 title: 'Why does the tester need to bother about distributed systems?'
 description: 'Distributed systems, fallacies and testing'
-pubDate: 2021-12-23
+pubDate: 2021-12-23T09:00:00+02:00
 tags: [distributed-systems]
 categories: [Testing]
 translationKey: distributed-systems-for-testers

@@ -1,7 +1,7 @@
 ---
 title: 'Blockchain for Test Engineers: What is blockchain?'
 description: 'What is blockchain - from tester`s point view'
-pubDate: 2022-06-05
+pubDate: 2022-06-05T09:00:00+03:00
 tags: [blockchain-for-testers]
 categories: [Blockchain]
 translationKey: blockchain-testing-blockchain-definition

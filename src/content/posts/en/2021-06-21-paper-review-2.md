@@ -1,7 +1,7 @@
 ---
 title: 'Paper Review: Non-Deterministic Concurrency Bugs'
 description: 'Review of paper about Non-Deterministic Concurrency Bugs.'
-pubDate: 2021-06-21
+pubDate: 2021-06-21T09:00:00+03:00
 tags: [paper, distributed-systems]
 categories: [Reviews]
 translationKey: non-deterministic-bugs-paper

@@ -1,7 +1,7 @@
 ---
 title: 'Load testing for gRPC services with Gatling'
 description: 'Examples of load tests for grpc services'
-pubDate: 2021-08-23
+pubDate: 2021-08-23T09:00:00+03:00
 tags: [grpc, performance-testing, scala]
 categories: [Performance]
 translationKey: gatling-scala-performance-example

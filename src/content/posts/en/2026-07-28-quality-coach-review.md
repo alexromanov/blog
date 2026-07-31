@@ -1,7 +1,7 @@
 ---
 title: 'From a player to a coach - 5 ideas from the Quality Coach`s Handbook'
 description: '5 ideas from "The Quality Coach`s Handbook" by Anne-Marie Charrett'
-pubDate: 2026-07-28
+pubDate: 2026-07-28T10:59:37+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: quality-coach-book-review

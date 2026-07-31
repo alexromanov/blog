@@ -1,7 +1,7 @@
 ---
 title: 'Useful books on testing, automation and engineering'
 description: 'My favorite books about testing and engineering'
-pubDate: 2023-04-08
+pubDate: 2023-04-08T09:00:00+03:00
 tags: [book-list]
 categories: [Recommendation]
 translationKey: books-recommendation-2023

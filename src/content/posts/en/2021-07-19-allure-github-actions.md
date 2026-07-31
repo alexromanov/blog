@@ -1,7 +1,7 @@
 ---
 title: 'Automation In Scala: Publish Allure reports with Github Actions'
 description: 'Guide how to publish reports to Allure server and notify users.'
-pubDate: 2021-07-19
+pubDate: 2021-07-19T09:00:00+03:00
 tags: [cicd, reporting, scala]
 categories: [Automation]
 translationKey: scala-github-reporting

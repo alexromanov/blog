@@ -1,7 +1,7 @@
 ---
 title: 'Blockchain for Test Engineers: P2P networks and Gossip protocol'
 description: 'Peer-to-peer and gossip protocols'
-pubDate: 2022-05-29
+pubDate: 2022-05-29T09:00:00+03:00
 tags: [blockchain-for-testers, distributed-systems]
 categories: [Blockchain]
 translationKey: blockchain-testing-p2p-gossip

@@ -1,7 +1,7 @@
 ---
 title: 'Modern Problems With Test Automation'
 description: 'My thoughts on modern test automation problems and how to solve them.'
-pubDate: 2021-07-05
+pubDate: 2021-07-05T09:00:00+03:00
 tags: [testing, automation]
 categories: [Automation]
 translationKey: problems-with-test-automation

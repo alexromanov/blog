@@ -1,7 +1,7 @@
 ---
 title: 'The one with custom transformer for Cucumber in Scala'
 description: 'In the following post I will show a quick tip on now you can write a custom transformer with Scala and Cucumber tool.'
-pubDate: 2016-07-27
+pubDate: 2016-07-27T09:00:00+03:00
 tags: [scala, cucumber, bdd]
 categories: [Automation]
 translationKey: cucumber-scala-transformer

@@ -1,7 +1,7 @@
 ---
 title: 'The most complicated automated tests'
 description: 'Which tests are the most complicated ones?'
-pubDate: 2022-07-17
+pubDate: 2022-07-17T09:00:00+03:00
 tags: [automation]
 categories: [Testing]
 translationKey: most-complicated-tests

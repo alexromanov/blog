@@ -1,7 +1,7 @@
 ---
 title: 'Testability and how to improve it'
 description: 'How can a regular test engineer affect testability'
-pubDate: 2022-08-14
+pubDate: 2022-08-14T09:00:00+03:00
 tags: [testability]
 categories: [Testing]
 translationKey: improving-testability

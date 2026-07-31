@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Software Engineering At Google'
 description: 'My insights after reading the latest book about engineering at Google.'
-pubDate: 2020-04-21
+pubDate: 2020-04-21T09:00:00+03:00
 tags: [book, engineering]
 categories: [Reviews]
 translationKey: book-review-se-google

@@ -65,6 +65,20 @@ export const SITE: SiteConfig = {
   postsPerPage: 8,
   /** Display ISO 8601 date format if true, otherwise locale-aware. */
   isoDates: false,
+  /**
+   * IANA time zone used to render post times. Pinned so a build on a CI machine
+   * in another zone renders the same times as a local build. Post `pubDate`
+   * values carry an explicit offset (e.g. `+03:00`), so they display as the
+   * local wall-clock time they were published at. Date-only `pubDate` values
+   * always render in UTC and are unaffected by this setting.
+   */
+  timeZone: 'Europe/Kyiv',
+  /**
+   * Show the time of day next to a post's date. Only posts whose `pubDate`
+   * actually carries a time (e.g. `2026-07-28T14:30:00`) get one; plain
+   * `2026-07-28` dates stay date-only.
+   */
+  showPostTime: true,
   /** Site-wide default for whether posts should display their featured image. */
   showFeaturedImages: true,
   /** Wrap the article body of posts and pages in a bordered, card-like container. */

@@ -1,7 +1,7 @@
 ---
 title: 'Paper Review: Simple Testing in Distributed Systems'
 description: 'Review of the research paper on testing distributed systems.'
-pubDate: 2021-05-31
+pubDate: 2021-05-31T09:00:00+03:00
 tags: [paper, distributed-systems]
 categories: [Reviews]
 translationKey: simple-testing-distributed-systems

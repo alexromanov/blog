@@ -1,7 +1,7 @@
 ---
 title: 'On choosing and changing languages for test automation'
 description: 'How to choose language for automation? Does it worth to change between languages and tech stacks?'
-pubDate: 2022-10-30
+pubDate: 2022-10-30T09:00:00+02:00
 tags: [career]
 categories: [Automation]
 translationKey: choosing-automation-language

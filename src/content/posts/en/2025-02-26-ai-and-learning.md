@@ -1,7 +1,7 @@
 ---
 title: 'AI tools and how they kill learning'
 description: 'Pros and cons of using AI tools (for beginners)'
-pubDate: 2025-02-26
+pubDate: 2025-02-26T10:03:05+02:00
 tags: [learning, ai]
 categories: [Learning]
 translationKey: ai-kills-learning

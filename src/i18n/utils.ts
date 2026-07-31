@@ -107,25 +107,112 @@ export function useTranslations(locale: Locale): (key: UIKey) => string {
   };
 }
 
+/** Default date shape used by `formatDate` / `formatDateTime`. */
+const DATE_OPTIONS: Intl.DateTimeFormatOptions = {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+};
+
+/** Time shape appended to a date when the date carries a time of day. */
+const TIME_OPTIONS: Intl.DateTimeFormatOptions = { hour: 'numeric', minute: '2-digit' };
+
+function toDate(date: Date | string): Date | null {
+  const d = typeof date === 'string' ? new Date(date) : date;
+  return Number.isNaN(d.getTime()) ? null : d;
+}
+
+function intlLang(locale: Locale): string {
+  return locale === 'fr' ? 'fr-FR' : 'en-US';
+}
+
 /**
- * Locale-aware date formatter.
+ * True when a frontmatter date carries a meaningful time of day.
+ *
+ * A date-only `pubDate: 2026-07-28` is coerced to *exactly* midnight UTC by
+ * the content schema, so "midnight UTC" is the sentinel for "the author never
+ * wrote a time". Authors opt a post into time rendering by writing one:
+ * `pubDate: 2026-07-28T14:30:00` (YAML reads a bare time as UTC; add an
+ * explicit `+03:00`/`Z` offset to be unambiguous).
+ */
+export function hasTime(date: Date | string): boolean {
+  const d = toDate(date);
+  if (!d) return false;
+  return d.getUTCHours() !== 0 || d.getUTCMinutes() !== 0 || d.getUTCSeconds() !== 0;
+}
+
+/**
+ * Zone a value is rendered in.
+ *
+ * A date-only `pubDate: 2026-07-28` is a *calendar date* that the schema stores
+ * as midnight UTC — it is not an instant, so it renders in UTC. Rendering it in
+ * a zone behind UTC would print the previous day. Values that carry a real time
+ * are true instants and render in `SITE.timeZone`.
+ */
+function zoneFor(d: Date): string {
+  return hasTime(d) ? SITE.timeZone : 'UTC';
+}
+
+/** `YYYY-MM-DD` (en-CA formats numerically in ISO order). */
+function isoDatePart(d: Date): string {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: zoneFor(d),
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).format(d);
+}
+
+/** `HH:mm` (24h) in `SITE.timeZone`. */
+function isoTimePart(d: Date): string {
+  return new Intl.DateTimeFormat('en-GB', {
+    timeZone: SITE.timeZone,
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  }).format(d);
+}
+
+/**
+ * Locale-aware date formatter. Renders in a pinned zone (see `zoneFor`) so the
+ * output never shifts with the build machine's zone; a caller may override it.
  */
 export function formatDate(
   date: Date | string,
   locale: Locale,
-  options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' },
+  options: Intl.DateTimeFormatOptions = DATE_OPTIONS,
 ): string {
-  const d = typeof date === 'string' ? new Date(date) : date;
-  if (Number.isNaN(d.getTime())) return '';
-  if (SITE.isoDates) return d.toISOString().slice(0, 10);
-  const lang = locale === 'fr' ? 'fr-FR' : 'en-US';
-  return new Intl.DateTimeFormat(lang, options).format(d);
+  const d = toDate(date);
+  if (!d) return '';
+  if (SITE.isoDates) return isoDatePart(d);
+  return new Intl.DateTimeFormat(intlLang(locale), { timeZone: zoneFor(d), ...options }).format(d);
 }
 
-/** Short ISO 8601 date used for <time datetime="..."> attributes. */
+/**
+ * Same as `formatDate`, plus the time of day — but only for posts that
+ * actually carry one (see `hasTime`) and only while `SITE.showPostTime` is on.
+ * Date-only posts fall through to `formatDate` unchanged.
+ */
+export function formatDateTime(
+  date: Date | string,
+  locale: Locale,
+  options: Intl.DateTimeFormatOptions = DATE_OPTIONS,
+): string {
+  const d = toDate(date);
+  if (!d) return '';
+  if (!SITE.showPostTime || !hasTime(d)) return formatDate(d, locale, options);
+  if (SITE.isoDates) return `${isoDatePart(d)} ${isoTimePart(d)}`;
+  return new Intl.DateTimeFormat(intlLang(locale), {
+    timeZone: zoneFor(d),
+    ...options,
+    ...TIME_OPTIONS,
+  }).format(d);
+}
+
+/** Full ISO 8601 timestamp used for <time datetime="..."> attributes. */
 export function isoDate(date: Date | string): string {
-  const d = typeof date === 'string' ? new Date(date) : date;
-  return Number.isNaN(d.getTime()) ? '' : d.toISOString();
+  const d = toDate(date);
+  return d ? d.toISOString() : '';
 }
 
 /**

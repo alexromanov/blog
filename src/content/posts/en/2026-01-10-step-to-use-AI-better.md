@@ -1,7 +1,7 @@
 ---
 title: 'One simple step to use AI more effectively as a tester'
 description: 'One forgotten aspect of using AI for testing and learning'
-pubDate: 2026-01-10
+pubDate: 2026-01-10T10:29:46+02:00
 tags: [learning, ai]
 categories: [Testing]
 translationKey: automation-framework-solution

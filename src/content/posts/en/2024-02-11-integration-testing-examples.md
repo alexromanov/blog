@@ -1,7 +1,7 @@
 ---
 title: 'On integration testing examples'
 description: 'Few examples of integration testing from real world'
-pubDate: 2024-02-11
+pubDate: 2024-02-11T09:48:08+02:00
 tags: [testing]
 categories: [Testing]
 translationKey: integration-testing-examples

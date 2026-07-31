@@ -1,7 +1,7 @@
 ---
 title: 'Premiers pas'
 description: 'Votre premier article avec Chirping Astro. Apprenez à configurer votre site, rédiger des articles et déployer.'
-pubDate: 2026-05-03
+pubDate: 2026-05-03T09:00:00+03:00
 tags: [premiers-pas, tutoriel]
 categories: [Guide]
 translationKey: getting-started

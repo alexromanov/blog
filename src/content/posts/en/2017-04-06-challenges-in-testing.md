@@ -1,7 +1,7 @@
 ---
 title: 'How complex and challenging testing can be'
 description: 'In the following post I will talk about my experience of testing huge financial systems.'
-pubDate: 2017-04-06
+pubDate: 2017-04-06T09:00:00+03:00
 tags: [testing]
 categories: [Testing]
 translationKey: complex-financial-systems

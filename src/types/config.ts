@@ -13,6 +13,14 @@ export interface SiteConfig {
   defaultOgImage: string;
   postsPerPage: number;
   isoDates: boolean;
+  /**
+   * IANA time zone every post date/time is rendered in (e.g. 'UTC',
+   * 'Europe/Kyiv'). Pinned so output does not depend on the machine that
+   * runs the build.
+   */
+  timeZone: string;
+  /** Render the time of day next to dates whose `pubDate` carries one. */
+  showPostTime: boolean;
   showFeaturedImages: boolean;
   boxedArticles: boolean;
   dynamicPostCardHeight: boolean;

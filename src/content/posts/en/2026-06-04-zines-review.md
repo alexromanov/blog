@@ -1,7 +1,7 @@
 ---
 title: 'Wizard Zines: learning hard tech from comic books'
 description: 'My insights from "Wizard Zines" by Julia Evans'
-pubDate: 2026-06-04
+pubDate: 2026-06-04T09:00:00+03:00
 tags: [book, engineering]
 categories: [Reviews]
 translationKey: wizard-zines-review

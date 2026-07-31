@@ -1,7 +1,7 @@
 ---
 title: 'Get file content from Github repository'
 description: 'Short note on how to use Github API to get file content'
-pubDate: 2023-03-25
+pubDate: 2023-03-25T11:08:29+02:00
 tags: [python, scripting]
 categories: [Tools]
 translationKey: get-file-github-python

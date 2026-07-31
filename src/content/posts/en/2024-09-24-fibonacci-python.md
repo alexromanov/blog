@@ -1,7 +1,7 @@
 ---
 title: '50 shades of Fibonacci - Solving popular interview question'
 description: 'Multiple approaches to solve popular interview question'
-pubDate: 2024-09-24
+pubDate: 2024-09-24T10:27:52+03:00
 tags: [python, coding]
 categories: [Interview]
 translationKey: python-fibonacci

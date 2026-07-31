@@ -1,7 +1,7 @@
 ---
 title: 'Magic of Spring Boot testing: UI and API tests'
 description: 'Few samples of UI and API tests for Spring Boot application.'
-pubDate: 2021-05-03
+pubDate: 2021-05-03T09:00:00+03:00
 tags: [java, spring, ui, api]
 categories: [Automation]
 translationKey: spring-boot-ui-api

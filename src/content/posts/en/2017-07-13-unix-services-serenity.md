@@ -1,7 +1,7 @@
 ---
 title: 'Working with unix init scripts from Serenity'
 description: 'How to verify whether specific unix init script is running on remote machine?'
-pubDate: 2017-07-13
+pubDate: 2017-07-13T09:00:00+03:00
 tags: [java, bdd, serenity, unix]
 categories: [Automation]
 translationKey: serenity-unix-scripts

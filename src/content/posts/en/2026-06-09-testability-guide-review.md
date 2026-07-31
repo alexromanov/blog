@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Team Guide to Software Testability'
 description: 'My insights from "Team Guide to Software Testability: Better software through greater testability" by Ash Winter and Rob Meaney'
-pubDate: 2026-06-09
+pubDate: 2026-06-09T09:00:00+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: testability-guide-book-review

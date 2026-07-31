@@ -1,7 +1,7 @@
 ---
 title: 'Automation in Scala: API tests for gRPC service'
 description: 'Inspired by MoT Bloggers Club challenge.'
-pubDate: 2021-06-12
+pubDate: 2021-06-12T09:00:00+03:00
 tags: [scala, automation, api, grpc]
 categories: [Automation]
 translationKey: scala-grpc-api-tests

@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Contract Testing in Action'
 description: 'Review of "Contract Testing in Action: With Pact, PactFlow, and GitHub Actions" book written by Marie Cruz and Lewis Prescott'
-pubDate: 2026-05-13
+pubDate: 2026-05-13T11:34:15+03:00
 tags: [book, testing, contract-testing]
 categories: [Reviews]
 translationKey: contract-testing-book-review

@@ -1,7 +1,7 @@
 ---
 title: 'Why do we fail at interviews?'
 description: 'Why do we fail at interviews and what we can do about it'
-pubDate: 2025-02-27
+pubDate: 2025-02-27T09:00:00+02:00
 tags: [interview, career]
 categories: [Interview]
 translationKey: interview-failures

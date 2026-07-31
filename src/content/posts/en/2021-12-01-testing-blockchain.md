@@ -1,7 +1,7 @@
 ---
 title: 'What does it mean to test a blockchain and which knowledge do you need for it'
 description: 'Different forms of testing blockchain'
-pubDate: 2021-12-01
+pubDate: 2021-12-01T09:00:00+02:00
 tags: [testing, blockchain]
 categories: [Blockchain]
 translationKey: blockchain-testing-knowledge

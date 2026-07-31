@@ -1,7 +1,7 @@
 ---
 title: 'Getting Started With Testing Microservices'
 description: 'Resources for engineers starting microservices testing.'
-pubDate: 2021-06-28
+pubDate: 2021-06-28T09:00:00+03:00
 tags: [testing, microservices, contract-testing]
 categories: [Automation]
 translationKey: getting-started-microservices-testing

@@ -1,7 +1,7 @@
 ---
 title: 'On interview tasks for the test automation engineer'
 description: 'My thoughts on different interview tasks for automation engineer'
-pubDate: 2024-01-27
+pubDate: 2024-01-27T12:11:21+02:00
 tags: [automation]
 categories: [Interview]
 translationKey: automation-interview-tasks

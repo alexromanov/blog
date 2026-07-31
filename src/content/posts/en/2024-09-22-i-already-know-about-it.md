@@ -1,7 +1,7 @@
 ---
 title: '`I already know about it.` or what to do when everything seems simple'
 description: 'What to do when everything seems simple'
-pubDate: 2024-09-22
+pubDate: 2024-09-22T12:55:21+03:00
 tags: [learning, career]
 categories: [Learning]
 translationKey: everything-seems-simple

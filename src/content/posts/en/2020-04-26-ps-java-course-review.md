@@ -1,7 +1,7 @@
 ---
 title: 'Course Review: Java and Spring courses at Pluralsight'
 description: 'Review of Java courses which I`ve recently completed at Pluralsight.'
-pubDate: 2020-04-26
+pubDate: 2020-04-26T09:00:00+03:00
 tags: [java, spring]
 categories: [Reviews]
 translationKey: java-spring-courses-pluralsight

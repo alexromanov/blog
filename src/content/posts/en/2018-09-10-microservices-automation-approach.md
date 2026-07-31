@@ -1,7 +1,7 @@
 ---
 title: 'Tuning up test pyramid for microservices'
 description: 'How canonical testing pyramid is changing as more and more applications adopt microservices architecture.'
-pubDate: 2018-09-10
+pubDate: 2018-09-10T09:00:00+03:00
 tags: [testing, microservices]
 categories: [Automation]
 translationKey: testing-pyramid-microservices

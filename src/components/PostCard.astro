@@ -1,6 +1,6 @@
 ---
 import { SITE, type Locale } from '../config';
-import { formatDate, isoDate } from '../i18n/utils';
+import { formatDateTime, isoDate } from '../i18n/utils';
 import { type Post, postPath, heroImage, shouldShowHero } from '../utils/posts';
 import SmartImage from './SmartImage.astro';
 import { Icon } from 'astro-icon/components';
@@ -65,7 +65,7 @@ const isDynamicCardHeight = post.data.dynamicPostCardHeight ?? SITE.dynamicPostC
             <Icon name="lucide:clock" width={12} height={12} />
             <time datetime={isoDate(post.data.pubDate)}>
               {
-                formatDate(post.data.pubDate, locale, {
+                formatDateTime(post.data.pubDate, locale, {
                   year: 'numeric',
                   month: 'short',
                   day: 'numeric',

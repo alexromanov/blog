@@ -1,7 +1,7 @@
 ---
 title: 'Why are we testing?'
 description: 'Thoughts on why we do software testing'
-pubDate: 2024-01-18
+pubDate: 2024-01-18T07:16:49+02:00
 tags: [testing]
 categories: [Testing]
 translationKey: why-we-test

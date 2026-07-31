@@ -1,7 +1,7 @@
 ---
 title: 'Blockchain for Test Engineers: Merkle Trees'
 description: 'What are Merkle Trees - from tester`s point view'
-pubDate: 2022-06-19
+pubDate: 2022-06-19T09:00:00+03:00
 tags: [blockchain-for-testers]
 categories: [Blockchain]
 translationKey: blockchain-testing-merkle-trees

@@ -1,7 +1,7 @@
 ---
 title: 'Should You Use Contract Testing?'
 description: 'Easy explanation on what is contract testing and why it may be usable.'
-pubDate: 2021-07-12
+pubDate: 2021-07-12T09:00:00+03:00
 tags: [testing, contract-testing]
 categories: [Automation]
 translationKey: contract-testing-decision

@@ -7,7 +7,7 @@ import Giscus from '../components/islands/Giscus.astro';
 import MathStyles from '../components/MathStyles.astro';
 import { Icon } from 'astro-icon/components';
 import { GISCUS, SITE, type Locale } from '../config';
-import { useTranslations, stripLocale, formatDate, isoDate, localizedPath } from '../i18n/utils';
+import { useTranslations, stripLocale, formatDateTime, isoDate, localizedPath } from '../i18n/utils';
 import { readingTime } from '../utils/reading-time';
 import {
   type Post,
@@ -117,14 +117,16 @@ const crumbs = [
       <div class="text-base-content/70 mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
         <span class="inline-flex items-center gap-1">
           <Icon name="lucide:calendar-days" width={14} height={14} />
-          <time datetime={isoDate(post.data.pubDate)}>{formatDate(post.data.pubDate, locale)}</time>
+          <time datetime={isoDate(post.data.pubDate)}>
+            {formatDateTime(post.data.pubDate, locale)}
+          </time>
         </span>
         {
           post.data.updatedDate && (
             <span class="inline-flex items-center gap-1">
               <Icon name="lucide:check" width={14} height={14} />
               <time datetime={isoDate(post.data.updatedDate)}>
-                {t('post.updatedOn')} {formatDate(post.data.updatedDate, locale)}
+                {t('post.updatedOn')} {formatDateTime(post.data.updatedDate, locale)}
               </time>
             </span>
           )

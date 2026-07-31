@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Zero Knowledge, Infinite Trust'
 description: 'My insights from "Zero Knowledge, Infinite Trust: The Evolution and Revolution of Blockchain Technology" by Eli Ben-Sasson and Nathan Jeffay'
-pubDate: 2026-06-11
+pubDate: 2026-06-11T09:00:00+03:00
 tags: [book, blockchain]
 categories: [Reviews]
 translationKey: zero-knowledge-book-review

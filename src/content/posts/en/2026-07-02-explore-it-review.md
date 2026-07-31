@@ -1,7 +1,7 @@
 ---
 title: 'Beyond the test case: 5 Insights from Elisabeth Hendrickson’s ‘Explore It!’'
 description: 'My insights from "Explore It!" book by Elisabeth Hendrickson'
-pubDate: 2026-07-02
+pubDate: 2026-07-02T18:18:02+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: explore-it-book-review

@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Software Testing Strategies'
 description: 'My insights from "Software Testing Strategies: A Testing Guide for the 2020s" book by Matthew Heusser and Michael Larsen'
-pubDate: 2026-05-25
+pubDate: 2026-05-25T11:52:04+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: testing-strategies-book-review

@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '../config';
-import { formatDate, isoDate, useTranslations } from '../i18n/utils';
+import { formatDateTime, isoDate, useTranslations } from '../i18n/utils';
 import type { Post } from '../utils/posts';
 import { Icon } from 'astro-icon/components';
 
@@ -19,7 +19,7 @@ const t = useTranslations(locale);
     <Icon name="lucide:clock" width={14} height={14} />
     <time datetime={isoDate(post.data.pubDate)}>
       {t('post.publishedOn')}
-      {formatDate(post.data.pubDate, locale)}
+      {formatDateTime(post.data.pubDate, locale)}
     </time>
   </span>
   {
@@ -27,7 +27,7 @@ const t = useTranslations(locale);
       <span class="flex items-center gap-1">
         <Icon name="lucide:check" width={14} height={14} />
         <time datetime={isoDate(post.data.updatedDate)}>
-          {t('post.updatedOn')} {formatDate(post.data.updatedDate, locale)}
+          {t('post.updatedOn')} {formatDateTime(post.data.updatedDate, locale)}
         </time>
       </span>
     )

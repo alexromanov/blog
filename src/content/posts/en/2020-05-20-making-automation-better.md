@@ -1,7 +1,7 @@
 ---
 title: 'Making automation better'
 description: 'In this blog post I share a few tips on how to make automation better.'
-pubDate: 2020-05-20
+pubDate: 2020-05-20T09:00:00+03:00
 tags: [testing, automation, process]
 categories: [Automation]
 translationKey: automation-process-improve

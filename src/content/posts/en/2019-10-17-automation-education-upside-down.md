@@ -1,7 +1,7 @@
 ---
 title: 'Turning automation education upside-down'
 description: 'Usage of flipped classroom approach in test automation education.'
-pubDate: 2019-10-17
+pubDate: 2019-10-17T09:00:00+03:00
 tags: [teaching, automation]
 categories: [Learning]
 translationKey: flipped-classroom-teaching

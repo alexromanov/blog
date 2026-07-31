@@ -1,7 +1,7 @@
 ---
 title: 'Automation In Scala: Basic Selenium Tests'
 description: 'How to write basic Selenium tests using ScalaTest.'
-pubDate: 2021-05-12
+pubDate: 2021-05-12T09:00:00+03:00
 tags: [scala, automation, selenium]
 categories: [Automation]
 translationKey: scala-selenium-tests

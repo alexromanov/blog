@@ -1,7 +1,7 @@
 ---
 title: 'Test tasks for automation engineers: do we need them?'
 description: 'Pros and cons of test tasks for automation engineers.'
-pubDate: 2021-05-18
+pubDate: 2021-05-18T09:00:00+03:00
 tags: [testing, interview]
 categories: [Interview]
 translationKey: test-task-interview

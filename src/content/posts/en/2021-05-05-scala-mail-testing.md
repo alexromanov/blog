@@ -1,7 +1,7 @@
 ---
 title: 'How to send and receive emails in automation tests'
 description: 'Mail automation in Scala: sending and receiving messages.'
-pubDate: 2021-05-05
+pubDate: 2021-05-05T09:00:00+03:00
 tags: [scala, automation, email]
 categories: [Automation]
 translationKey: scala-mail-automation

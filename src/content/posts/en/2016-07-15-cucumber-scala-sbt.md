@@ -1,7 +1,7 @@
 ---
 title: 'The one where Cucumber meets Scala with SBT'
 description: 'In the following post I will show how to configure a new project in order to write integration tests with Cucumber, Scala and SBT build tool.'
-pubDate: 2016-07-15
+pubDate: 2016-07-15T09:00:00+03:00
 tags: [scala, cucumber, bdd]
 categories: [Automation]
 translationKey: cucumber-scala-sbt

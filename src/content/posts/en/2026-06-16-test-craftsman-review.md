@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Software Testing: A Craftsman`s Approach'
 description: 'My insights from "Software Testing: A Craftsman`s Approach" by Paul C Jorgensen'
-pubDate: 2026-06-16
+pubDate: 2026-06-16T09:00:00+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: test-craftsman-book-review

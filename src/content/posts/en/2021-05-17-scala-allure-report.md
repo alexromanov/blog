@@ -1,7 +1,7 @@
 ---
 title: 'Automation In Scala: Allure Reporting'
 description: 'How to write basic Selenium tests using ScalaTest.'
-pubDate: 2021-05-17
+pubDate: 2021-05-17T09:00:00+03:00
 tags: [scala, automation, reporting]
 categories: [Automation]
 translationKey: scala-allure-reporting

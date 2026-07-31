@@ -1,7 +1,7 @@
 ---
 title: 'My biggest testing regrets'
 description: 'Inspired by MoT Bloggers Club challenge.'
-pubDate: 2021-06-06
+pubDate: 2021-06-06T09:00:00+03:00
 tags: [testing, tips]
 categories: [Testing]
 translationKey: biggest-testing-regrets

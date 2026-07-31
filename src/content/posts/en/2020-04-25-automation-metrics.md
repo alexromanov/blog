@@ -1,7 +1,7 @@
 ---
 title: 'Measuring test automation'
 description: 'How to make test automation effort more goal-oriented via metrics.'
-pubDate: 2020-04-25
+pubDate: 2020-04-25T09:00:00+03:00
 tags: [automation, metrics]
 categories: [Automation]
 translationKey: automation-metrics

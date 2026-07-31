@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Full Stack Testing'
 description: 'My insights from "Full Stack Testing: A Practical Guide for Delivering High Quality Software" by Gayathri Mohan'
-pubDate: 2026-06-02
+pubDate: 2026-06-02T09:00:00+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: full-stack-testing-book-review

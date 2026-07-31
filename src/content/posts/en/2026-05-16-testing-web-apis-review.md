@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Testing Web APIs'
 description: 'Review of "Testing Web APIs " by Mark Winteringham'
-pubDate: 2026-05-16
+pubDate: 2026-05-16T12:54:09+03:00
 tags: [book, testing, api-testing]
 categories: [Reviews]
 translationKey: testing-web-apis-book-review

@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Software Testing with Generative AI'
 description: 'My insights from "Software Testing with Generative AI" book by Mark Winteringham'
-pubDate: 2026-06-23
+pubDate: 2026-06-23T09:00:00+03:00
 tags: [book, testing]
 categories: [Reviews]
 translationKey: testing-gen-ai-book-review

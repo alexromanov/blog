@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Mastering Blockchain'
 description: 'My insights from "Mastering Blockchain: Inner workings of blockchain, from cryptography and decentralized identities, to DeFi, NFTs and Web3, 4th Edition" book by Imran Bashir'
-pubDate: 2026-05-28
+pubDate: 2026-05-28T09:00:00+03:00
 tags: [book, blockchain]
 categories: [Reviews]
 translationKey: mastering-blockchain-book-review

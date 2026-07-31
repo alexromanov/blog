@@ -1,7 +1,7 @@
 ---
 title: 'Time traveling through Git history'
 description: 'In this blog post I will show a quick hint on how to keep commit history clean by using squash.'
-pubDate: 2020-05-05
+pubDate: 2020-05-05T09:00:00+03:00
 tags: [git]
 categories: [Tools]
 translationKey: git-history-squash

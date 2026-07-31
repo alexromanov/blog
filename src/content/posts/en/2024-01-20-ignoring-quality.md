@@ -1,7 +1,7 @@
 ---
 title: 'On ignoring recommendations and quality'
 description: 'Is it always possible to assure the quality?'
-pubDate: 2024-01-20
+pubDate: 2024-01-20T14:40:59+02:00
 tags: [testing]
 categories: [Testing]
 translationKey: ignore-quality-recommendation

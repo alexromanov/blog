@@ -1,7 +1,7 @@
 ---
 title: 'Conducting courses for QA Engineers'
 description: 'Things to consider before starting an internal automation course for QA Engineers.'
-pubDate: 2020-05-29
+pubDate: 2020-05-29T09:00:00+03:00
 tags: [teaching, automation]
 categories: [Learning]
 translationKey: automation-internal-course

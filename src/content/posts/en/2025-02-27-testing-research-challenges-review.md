@@ -1,7 +1,7 @@
 ---
 title: 'Paper Review: Software Testing Research Challenges: An Industrial Perspective'
 description: 'An overview of the current state of software testing and open research questions'
-pubDate: 2025-02-27
+pubDate: 2025-02-27T11:01:13+02:00
 tags: [testing, paper]
 categories: [Reviews]
 translationKey: testing-challenges-paper

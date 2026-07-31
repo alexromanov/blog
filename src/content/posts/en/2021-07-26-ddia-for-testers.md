@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Designing Data-Intensive Applications'
 description: 'Why every test engineer should read DDIA book.'
-pubDate: 2021-07-26
+pubDate: 2021-07-26T09:00:00+03:00
 tags: [book, distributed-systems, engineering]
 categories: [Reviews]
 translationKey: review-for-ddia-book

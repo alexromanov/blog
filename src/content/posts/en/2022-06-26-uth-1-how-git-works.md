@@ -1,7 +1,7 @@
 ---
 title: 'Under The Hood: How Git works?'
 description: 'Digging deep into how Git works'
-pubDate: 2022-06-26
+pubDate: 2022-06-26T09:00:00+03:00
 tags: [git]
 categories: [Tools]
 translationKey: git-under-the-hoods

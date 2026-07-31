@@ -1,7 +1,7 @@
 ---
 title: 'The one where browser suddenly restarts with Serenity'
 description: 'In the following post I will share a quick tip which helps with resolving browser restart issue in Serenity framework.'
-pubDate: 2017-02-06
+pubDate: 2017-02-06T09:00:00+02:00
 tags: [bdd, java, serenity]
 categories: [Automation]
 translationKey: serenity-browser-restart

@@ -1,7 +1,7 @@
 ---
 title: 'The one with Cucumber DataTables'
 description: 'In the following post I will explain what are the possible representations of DataTables in Cucumber.'
-pubDate: 2016-10-03
+pubDate: 2016-10-03T09:00:00+03:00
 tags: [scala, cucumber, bdd]
 categories: [Automation]
 translationKey: cucumber-scala-data-tables

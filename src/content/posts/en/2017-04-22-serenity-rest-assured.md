@@ -1,7 +1,7 @@
 ---
 title: 'Assuring REST with Serenity'
 description: 'Is it possible to test REST services with Serenity framework? Let`s try to find it out!.'
-pubDate: 2017-04-22
+pubDate: 2017-04-22T09:00:00+03:00
 tags: [bdd, java, serenity, api]
 categories: [Automation]
 translationKey: serenity-rest-testing

@@ -1,7 +1,7 @@
 ---
 title: 'Blockchain for Test Engineers: Distributed Systems'
 description: 'A glance at distributed systems from the test engineer`s point of view'
-pubDate: 2022-05-22
+pubDate: 2022-05-22T09:00:00+03:00
 tags: [blockchain-for-testers, distributed-systems]
 categories: [Blockchain]
 translationKey: blockchain-testing-distributed-systems

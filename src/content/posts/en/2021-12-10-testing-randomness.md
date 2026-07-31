@@ -1,7 +1,7 @@
 ---
 title: 'How to test randomness?'
 description: 'How to test random number generators?'
-pubDate: 2021-12-10
+pubDate: 2021-12-10T09:00:00+02:00
 tags: [testing]
 categories: [Testing]
 translationKey: random-number-testing

@@ -1,7 +1,7 @@
 ---
 title: 'On the value of a test engineer'
 description: 'How we, as test engineers, bring value to the team and company'
-pubDate: 2024-02-01
+pubDate: 2024-02-01T07:50:11+02:00
 tags: [testing]
 categories: [Testing]
 translationKey: test-engineer-value

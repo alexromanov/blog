@@ -1,7 +1,7 @@
 ---
 title: 'Dos and donts of test automation interview'
 description: 'Few tips that will help you to succeed with automation interviews'
-pubDate: 2021-08-09
+pubDate: 2021-08-09T09:00:00+03:00
 tags: [automation, interview]
 categories: [Interview]
 translationKey: dos-donts-automation-interview

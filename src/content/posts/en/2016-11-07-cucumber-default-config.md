@@ -1,7 +1,7 @@
 ---
 title: 'The one where scenario is run from feature file'
 description: 'In the following post I will share a quick tip on how to set up Idea to run scenario from feature file.'
-pubDate: 2016-11-07
+pubDate: 2016-11-07T09:00:00+02:00
 tags: [scala, cucumber, bdd]
 categories: [Automation]
 translationKey: cucumber-scala-scenario-file

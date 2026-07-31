@@ -1,7 +1,7 @@
 ---
 title: 'On choosing what to learn'
 description: 'How I learn or treating learning as a project'
-pubDate: 2024-10-07
+pubDate: 2024-10-07T07:12:55+03:00
 tags: [learning, career]
 categories: [Learning]
 translationKey: choosing-what-to-learn

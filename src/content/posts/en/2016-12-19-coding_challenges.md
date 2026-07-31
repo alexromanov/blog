@@ -1,7 +1,7 @@
 ---
 title: 'The one with coding challenges for newcomers'
 description: 'In the following post I will talk about resources for getting confidence in coding as newcomer test automation.'
-pubDate: 2016-12-19
+pubDate: 2016-12-19T09:00:00+02:00
 tags: [interview, coding]
 categories: [Interview]
 translationKey: newcomer-coding-challenges

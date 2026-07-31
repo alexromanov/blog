@@ -1,7 +1,7 @@
 ---
 title: 'Tips on reading books'
 description: 'Few tips on how to read books'
-pubDate: 2022-04-15
+pubDate: 2022-04-15T09:00:00+03:00
 tags: [reading]
 categories: [Recommendation]
 translationKey: book-reading-tips

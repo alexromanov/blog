@@ -1,7 +1,7 @@
 ---
 title: 'High Tech - Low Test or Problems with Modern Testing'
 description: 'My thoughts on problems with modern testing'
-pubDate: 2022-06-12
+pubDate: 2022-06-12T09:00:00+03:00
 tags: [tesing]
 categories: [Testing]
 translationKey: high-tech-low-test

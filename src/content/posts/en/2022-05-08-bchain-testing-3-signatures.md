@@ -1,7 +1,7 @@
 ---
 title: 'Blockchain for Test Engineers: Digital Signatures'
 description: 'Digital signatures from tester`s point of view'
-pubDate: 2022-05-15
+pubDate: 2022-05-15T09:00:00+03:00
 tags: [blockchain-for-testers]
 categories: [Blockchain]
 translationKey: blockchain-testing-digital-signatures

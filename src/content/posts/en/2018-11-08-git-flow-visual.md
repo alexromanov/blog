@@ -1,7 +1,7 @@
 ---
 title: 'Explaining git flow for newcomers'
 description: 'Tiny remainder about git flow for development.'
-pubDate: 2018-11-08
+pubDate: 2018-11-08T09:00:00+02:00
 tags: [git, tools]
 categories: [Tools]
 translationKey: git-flow-visual

@@ -1,7 +1,7 @@
 ---
 title: 'Easy way to test Spring Boot microservices'
 description: 'Easy way how to make integration and component testing for Spring Boot microservices with Docker containers.'
-pubDate: 2019-04-02
+pubDate: 2019-04-02T09:00:00+03:00
 tags: [java, spring, docker, testing]
 categories: [Automation]
 translationKey: spring-boot-test-containers

@@ -1,7 +1,7 @@
 ---
 title: 'What to read in test automation?'
 description: 'A curated list of good books for test automation engineers'
-pubDate: 2025-08-07
+pubDate: 2025-08-07T13:52:06+03:00
 tags: [book-list, automation]
 categories: [Recommendation]
 translationKey: automation-books-list

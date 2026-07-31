@@ -1,7 +1,7 @@
 ---
 title: 'Test Automation Framework or Test Automation Solution?'
 description: 'What is the difference between framework and solution?'
-pubDate: 2025-11-26
+pubDate: 2025-11-26T16:11:57+02:00
 tags: [automation]
 categories: [Automation]
 translationKey: automation-framework-solution

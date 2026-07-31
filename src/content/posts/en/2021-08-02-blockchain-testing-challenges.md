@@ -1,7 +1,7 @@
 ---
 title: 'Challenges in testing blockchain-based applications'
 description: 'Why is blockchain testing not an easy thing?'
-pubDate: 2021-08-02
+pubDate: 2021-08-02T09:00:00+03:00
 tags: [paper, testing, blockchain]
 categories: [Blockchain]
 translationKey: testing-blockchain-apps-paper

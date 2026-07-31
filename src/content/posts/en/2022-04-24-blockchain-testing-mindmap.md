@@ -1,7 +1,7 @@
 ---
 title: 'Blockchain for Test Engineers: Roadmap'
 description: 'Blockchain roadmap for test engineers'
-pubDate: 2022-04-24
+pubDate: 2022-04-24T09:00:00+03:00
 tags: [blockchain-for-testers]
 categories: [Blockchain]
 translationKey: blockchain-testing-roadmap
