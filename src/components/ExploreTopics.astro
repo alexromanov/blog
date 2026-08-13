@@ -1,0 +1,74 @@
+---
+import type { Locale } from '../config';
+import { categoryPath, tagPath } from '../utils/posts';
+import { Icon } from 'astro-icon/components';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+
+const topics = [
+  {
+    title: 'Performance Engineering',
+    description:
+      'Latency, load, profiling, queues and system behavior under pressure.',
+    href: categoryPath(locale, 'Performance'),
+    icon: 'lucide:gauge',
+  },
+  {
+    title: 'Distributed Systems',
+    description:
+      'Consistency, concurrency, retries, failures and fault tolerance.',
+    href: tagPath(locale, 'distributed-systems'),
+    icon: 'lucide:network',
+  },
+  {
+    title: 'AI Systems',
+    description:
+      'Evals, uncertainty, sampling, non-determinism and AI reliability.',
+    href: tagPath(locale, 'ai'),
+    icon: 'lucide:sparkles',
+  },
+  {
+    title: 'Blockchain Engineering',
+    description:
+      'Consensus, P2P networking, indexers, finality and performance.',
+    href: categoryPath(locale, 'Blockchain'),
+    icon: 'lucide:blocks',
+  },
+];
+---
+
+<section class="mt-10" aria-labelledby="explore-title">
+  <div class="mb-4 flex items-center justify-between gap-4">
+    <h2
+      id="explore-title"
+      class="text-base-content text-2xl font-bold tracking-tight"
+    >
+      Explore
+    </h2>
+  </div>
+
+  <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+    {
+      topics.map((topic) => (
+        <a
+          href={topic.href}
+          class="border-base-300 bg-base-100 hover:border-primary/50 hover:bg-base-200 group rounded-md border p-5 transition"
+        >
+          <div class="text-primary mb-4 flex h-10 w-10 items-center justify-center rounded-md bg-primary/10">
+            <Icon name={topic.icon} width={20} height={20} aria-hidden="true" />
+          </div>
+          <h3 class="text-base-content group-hover:text-primary text-lg font-semibold tracking-tight">
+            {topic.title}
+          </h3>
+          <p class="text-base-content/70 mt-2 text-sm leading-6">
+            {topic.description}
+          </p>
+        </a>
+      ))
+    }
+  </div>
+</section>

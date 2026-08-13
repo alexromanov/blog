@@ -51,13 +51,14 @@ export const SITE: SiteConfig = {
   /** Default site title used as homepage <title> and meta. */
   title: 'Test Engineering Notes',
   /** Site tagline / description. */
-  description: 'Notes on test engineering, distributed systems, blockchain, performance and AI',
+  description:
+    'Engineering quality for complex systems: performance, distributed systems, AI, blockchain, and testing.',
   /** Author/handle shown in footer + meta. */
   author: {
     name: 'Oleksandr Romanov',
     url: GITHUB_HANDLE ? `https://github.com/${GITHUB_HANDLE}` : undefined,
     avatar: avatarImg,
-    bio: 'by Oleksandr Romanov',
+    bio: 'Software engineer exploring how complex systems fail, scale, and how we can test them.',
   },
   /** Default OG image. */
   defaultOgImage: ogDefaultImg.src,

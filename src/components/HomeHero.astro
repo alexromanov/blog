@@ -1,0 +1,48 @@
+---
+import type { Locale } from '../config';
+import { categoryPath, tagPath } from '../utils/posts';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+
+const topics = [
+  { label: 'Performance', href: categoryPath(locale, 'Performance') },
+  {
+    label: 'Distributed Systems',
+    href: tagPath(locale, 'distributed-systems'),
+  },
+  { label: 'AI Systems', href: tagPath(locale, 'ai') },
+  { label: 'Blockchain', href: categoryPath(locale, 'Blockchain') },
+];
+---
+
+<section class="home-hero" aria-labelledby="home-hero-title">
+  <p class="text-base-content/60 text-xs font-bold tracking-[0.14em] uppercase">
+    TEST ENGINEERING NOTES
+  </p>
+
+  <h1
+    id="home-hero-title"
+    class="text-base-content mt-3 max-w-3xl text-4xl leading-tight font-extrabold tracking-tight sm:text-5xl"
+  >
+    Engineering quality for complex systems
+  </h1>
+
+  <p class="text-base-content/70 mt-4 max-w-2xl text-lg leading-8">
+    I write about how complex software systems fail, scale, and how we can build
+    evidence that they work.
+  </p>
+
+  <nav class="mt-6 flex flex-wrap gap-2" aria-label="Primary topics">
+    {
+      topics.map((topic) => (
+        <a href={topic.href} class="post-tag">
+          {topic.label}
+        </a>
+      ))
+    }
+  </nav>
+</section>

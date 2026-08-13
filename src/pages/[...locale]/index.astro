@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '~/layouts/BaseLayout.astro';
+import ExploreTopics from '~/components/ExploreTopics.astro';
+import HomeHero from '~/components/HomeHero.astro';
 import PostList from '~/components/PostList.astro';
 import Pagination from '~/components/Pagination.astro';
 import { SITE } from '~/config';
@@ -24,7 +26,14 @@ const hrefForPage = (n: number) => localizedPath(n === 1 ? '/' : `/page/${n}/`, 
 ---
 
 <BaseLayout title={SITE.title} description={SITE.description} pathWithoutLocale="/">
-  <PostList posts={pagePosts} locale={locale} />
+  <HomeHero locale={locale} />
+  <ExploreTopics locale={locale} />
+  <section class="mt-12" aria-labelledby="latest-notes-title">
+    <h2 id="latest-notes-title" class="text-base-content mb-5 text-2xl font-bold tracking-tight">
+      Latest Notes
+    </h2>
+    <PostList posts={pagePosts} locale={locale} />
+  </section>
   <Pagination
     currentPage={currentPage}
     lastPage={lastPage}
