@@ -22,39 +22,38 @@ In this post, I'll cover the Anthropic certifications, how to prepare, how to pa
 
 **There are three certification tracks:** Associate, Developer, and Architect. Only Architect has two levels: Foundations and Professional.
 
-You are not forced to get all the certificates - you can choose only one. 
+You are not forced to get all the certificates - you can choose only one.
 
-| Certification | Questions | Passing score | Validity | Price |
-|---|---|---|---|---|
-| Claude Certified Associate – Foundations (CCAO-F) | 60 | 720 / 1,000 | 12 months | $99 |
-| Claude Certified Developer – Foundations (CCDV-F) | 53 | 720 / 1,000 | 12 months | $125 |
-| Claude Certified Architect – Foundations (CCAR-F) | 60 | 720 / 1,000 | 12 months | $125 |
-| Claude Certified Architect – Professional (CCAR-P) | 63 | 720 / 1,000 | 12 months | $175 |
+The exams are a multiple-choice questionse. But do not worry - in case of multiple answers, the question will state it directly.
 
-The exam usually has 60 (or 53) multiple-choice questions in 120 minutes. The passing score is 720 out of 1000. The exam costs $125 ($99 for Associate, $175 for Architect Professional).
+Organization details (including prices) can be found in the following table:
 
-Keep in mind that every certification must be renewed each year, since it expires. Given how fast AI is developing right now, that makes sense :)
+| Certification | Questions | Passing score | Price |
+|---|---|---|---|
+| Claude Certified Associate – Foundations (CCAO-F) | 60 | 720 / 1,000 | $99 |
+| Claude Certified Developer – Foundations (CCDV-F) | 53 | 720 / 1,000 | $125 |
+| Claude Certified Architect – Foundations (CCAR-F) | 60 | 720 / 1,000 | $125 |
+| Claude Certified Architect – Professional (CCAR-P) | 63 | 720 / 1,000 | $175 |
 
-You can take the exams online through the Pearson platform.
+> Keep in mind that **every certification is valid only for 12 months**. Given how fast AI is developing right now, that makes sense :)
+
+You can pass all exams online, via Pearson platform.
 
 How long did preparation take me? In addition to completing the recommended courses, I spent roughly 20–30 hours on hands-on practice and mock exams. 
 
 ### Which certification to choose?
 
-For engineers already working with Claude, I think Developer Foundations is worth taking. Architect Foundations is more valuable if you regularly make system-level design decisions. 
+- For non-technical or business people it's worth to check the Associate level exam. 
 
-Here is the table that might be helpful to make a choice:
+- For engineers already working with Claude, I think Developer Foundations is worth taking. 
 
-| Your role                                                            | Best starting point    |
-| -------------------------------------------------------------------- | ---------------------- |
-| Non-technical / business / operations                                | Associate Foundations  |
-| Software engineer building Claude applications                       | Developer Foundations  |
-| Engineer / architect designing Claude systems                        | Architect Foundations  |
-| Experienced solution architect working at enterprise | Architect Professional |
+- Architect Foundations is more valuable if you regularly make system-level design decisions. 
+
+- In case if you are an experienced solution architect transforming enterprise with AI - choose Architect Professional one.
 
 ## 🤓 My experience with Claude Certified Developer - Foundations (CCDV-F)
 
-This level includes the Claude Certified Developer – Foundations certification. It's the recommended certification for most engineers. The exam validates that someone can build, integrate, and ship production-grade applications, agents, and workflows on the Claude platform.
+This level includes the Claude Certified Developer – Foundations certification. The exam validates that someone can build, integrate, and ship production-grade applications, agents, and workflows on the Claude platform.
 
 Main audience: senior engineers, AI/ML engineers, technical leads who usually turn business requirements into working systems.
 
@@ -79,7 +78,7 @@ Then I took other Claude courses, such as "Building with Claude API" and "Claude
 
 After completing the courses, I would budget another 20–30 hours for hands-on practice and mock exams. 
 
-To practice, I put course notes into NotebookLM and practiced with its quizzes and flashcards. Also I used [mock exam on Udemy](https://www.udemy.com/course/claude-certified-developer-foundations-ccdv-f-exams-2026) which helps to simulate exam conditions well. 
+To practice, I put course notes into [NotebookLM](https://notebook.google.com/) and practiced with its quizzes and flashcards. Also I used [mock exam on Udemy](https://www.udemy.com/course/claude-certified-developer-foundations-ccdv-f-exams-2026) which helps to simulate exam conditions well. 
 
 ### Tips
 
@@ -111,7 +110,7 @@ At first, I completed the recommended courses. Most of them are free and [come f
 
 Next step I took was reading the [text materials](https://claudecertificationguide.com/learn) and [watching them on YouTube](https://www.youtube.com/playlist?list=PLFz7SvAnfqLpjPCPJBkUy077BC5ecuE8c).
 
-For the practice, I also used course notes with NotebookLM and practiced with its quizzes and flashcards.
+For the practice, I also used course notes with [NotebookLM](https://notebook.google.com/) and practiced with its quizzes and flashcards.
 
 For the mock exams, both [bank of questions by Matthew Hartman on Udemy](https://www.udemy.com/course/claude-certified-architect-foundations-ccar-f-exams-2026) and [free mock exam](https://claudecertificationguide.com/mock-exam/start) worked very well.
 
@@ -159,13 +158,13 @@ Topics you can expect at the exam:
 
 ## Are Claude certifications worth it?
 
-Do not expect that exams will turn you into a mature modern AI Engineer in one day. Certificates and courses will give you a lot of materials. Some materials have general-purpose applicability. But most of the knowledge is more or less tied to Claude and the infrastructure around it. 
-
-In today's job market, certifications like these can help you get interview invitations and prove that you have the knowledge. Yes, these exams don't guarantee skills or depth. But without them, you might not even get an interview at some companies. C'est la vie!
+![Project Structure](../../../assets/images/posts/20260916/cert.png)
 
 Preparation for the developer and architect exams gave me a solid body of knowledge. It gave me a structured map of topics to explore further. More importantly - the preparation left me with practical ideas on how to apply the knowledge at work and use skills, MCPs, agents, and Claude Code more efficiently rather than occasional prompting.
 
-If you write skills, agents, and MCP servers every day, you already know many things that you need for the exam. You just need to add the Claude-specific details. Then - go for it!
+But do not expect that exams will turn you into a mature modern AI Engineer in one day. Certificates and courses will give you a lot of materials. Some materials have general-purpose applicability. But most of the knowledge is more or less tied to Claude and the infrastructure around it. 
 
-**Would I recommend them?** Yes - especially if you already use Claude professionally. The badge itself is useful, but the bigger value for me was the structured preparation: it exposed gaps in my knowledge and gave me practical ideas I could apply at work.
+In today's job market, certifications like these can help you get interview invitations and prove that you have the knowledge. Yes, these exams don't guarantee skills or depth. But without them, you might not even get an interview at some companies. C'est la vie!
+
+**Would I recommend certifications?** Yes - if you already use Claude professionally. The badge itself is ok, but the bigger value for me was the structured preparation: it exposed gaps in my knowledge and gave me practical ideas I could apply at work.
 
